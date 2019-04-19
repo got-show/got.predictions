@@ -1,0 +1,32 @@
+[
+    {
+        "__v": 0,
+        "_id": "5cad97c6b0c0ef00108e532d",
+        "cardinalDirection": "east",
+        "name": "Essos",
+        "neighbors": [
+            "Westeros",
+            "Sothoryos"
+        ]
+    },
+    {
+        "__v": 0,
+        "_id": "5cad97c6b0c0ef00108e532e",
+        "cardinalDirection": "south",
+        "name": "Sothoryos",
+        "neighbors": [
+            "Essos",
+            "Westeros"
+        ]
+    },
+    {
+        "__v": 0,
+        "_id": "5cad97c6b0c0ef00108e532f",
+        "cardinalDirection": "west",
+        "name": "Westeros",
+        "neighbors": [
+            "Essos",
+            "Sothoryos"
+        ]
+    }
+]

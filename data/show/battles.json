@@ -1,0 +1,4157 @@
+[
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e5ff8",
+        "casualties": [
+            "None",
+            "All of Rhaenyra's Queensguard",
+            "Queen Rhaenyra I",
+            "Prince Aegon",
+            "Targaryen "
+        ],
+        "commandersOne": [
+            "King Aegon II",
+            "Targaryen"
+        ],
+        "commandersTwo": [
+            "Queen Rhaenyra I Targaryen"
+        ],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.777Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Greens"
+        ],
+        "factionsTwo": [
+            "Blacks"
+        ],
+        "forcesOne": [
+            "Dragonstone Garrison",
+            "Aegon's Kingsguard",
+            "Sunfyre"
+        ],
+        "forcesTwo": [
+            "Rhaenyra's",
+            "Queensguard"
+        ],
+        "name": "Ambush at Dragonstone",
+        "place": [
+            "Dragonstone"
+        ],
+        "slug": "Ambush_at_Dragonstone",
+        "updatedAt": "2019-04-10T07:15:27.777Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e5ff9",
+        "casualties": [
+            "Some Forrester men-at-armsRodrik Forrester Asher Forrester Some pit fightersThe Beast",
+            "~10 Whitehill Men-at-arms"
+        ],
+        "commandersOne": [
+            "Lord Rodrik",
+            "Forrester",
+            "Ser Royland Degore",
+            "Duncan Tuttle",
+            "Asher Forrester",
+            "Amaya"
+        ],
+        "commandersTwo": [
+            "Gryff Whitehill",
+            "Harys"
+        ],
+        "conflict": "Forrester-Whitehill conflict",
+        "createdAt": "2019-04-10T07:15:27.777Z",
+        "factionsOne": [
+            "House Forrester",
+            "Meereenese Warriors"
+        ],
+        "factionsTwo": [
+            "House Whitehill"
+        ],
+        "forcesOne": [
+            "~10 Forrester men-at-arms",
+            "~20-25 pit fightersThe Beast &Bloodsong",
+            "Beskha"
+        ],
+        "forcesTwo": [
+            "~15 Whitehill men-at-arms~5 Warrick Crossbowmen"
+        ],
+        "name": "Ambush at the Harbor",
+        "place": [
+            "The North"
+        ],
+        "slug": "Ambush_at_the_Harbor",
+        "updatedAt": "2019-04-10T07:15:27.777Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e5ffa",
+        "casualties": [
+            "At least one pit fighter",
+            "Entire group of Whitehill soldiers killed"
+        ],
+        "commandersOne": [
+            "Lord Asher Forrester",
+            "Ser Royland Degore",
+            "Duncan Tuttle"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Forrester-Whitehill conflict",
+        "createdAt": "2019-04-10T07:15:27.778Z",
+        "factionsOne": [
+            "House Forrester"
+        ],
+        "factionsTwo": [
+            "House Whitehill"
+        ],
+        "forcesOne": [
+            "Small Group of Pit FightersAmaya"
+        ],
+        "forcesTwo": [
+            "Small group of Whitehill soldiers"
+        ],
+        "name": "Ambush at the Tuttle Farm",
+        "place": [
+            "Tuttle Farm"
+        ],
+        "slug": "Ambush_at_the_Tuttle_Farm",
+        "updatedAt": "2019-04-10T07:15:27.778Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e5ffb",
+        "casualties": [
+            "~100",
+            "~500 DeadMany Captured"
+        ],
+        "commandersOne": [
+            "King Robb Stark",
+            "Lord Roose Bolton",
+            "Lord Rickard Karstark"
+        ],
+        "commandersTwo": [
+            "Lord Damon",
+            "MarbrandSer Donnel Estren"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.778Z",
+        "factionsOne": [
+            "House Stark",
+            "House Bolton",
+            "House Karstark"
+        ],
+        "factionsTwo": [
+            "House Marbrand",
+            "House Lorch"
+        ],
+        "forcesOne": [
+            "~2000 Karstark Cavalry~4000 Northern Cavalry",
+            "~14,000 Rivermen/Northmen"
+        ],
+        "forcesTwo": [
+            "~400 Marbrand Men",
+            "~30 Lorch Cavalry",
+            "~200 Estren Infantry"
+        ],
+        "name": "Sack of Ashemark",
+        "place": [
+            "Ashemark",
+            " the Westerlands"
+        ],
+        "slug": "Sack_of_Ashemark",
+        "updatedAt": "2019-04-10T07:15:27.778Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e5ffc",
+        "casualties": [
+            "Unknown",
+            "Unknown"
+        ],
+        "commandersOne": [
+            "Lord Robert Baratheon"
+        ],
+        "commandersTwo": [
+            "Lord Randyll Tarly",
+            "Lord Mace Tyrell"
+        ],
+        "conflict": "Robert's Rebellion",
+        "createdAt": "2019-04-10T07:15:27.779Z",
+        "factionsOne": [
+            "House Baratheon",
+            "and Bannermen"
+        ],
+        "factionsTwo": [
+            "House TarlyIn the vanguard",
+            "House Tyrell",
+            "Arrived after the",
+            "battle was over"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Battle of Ashford",
+        "place": [
+            "Ashford",
+            " the Reach"
+        ],
+        "slug": "Battle_of_Ashford",
+        "updatedAt": "2019-04-10T07:15:27.779Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e5ffd",
+        "casualties": [
+            "None",
+            "None"
+        ],
+        "commandersOne": [
+            "Lord Larys Strong"
+        ],
+        "commandersTwo": [
+            "Prince Daemon",
+            "Targaryen"
+        ],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.779Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Greens",
+            "House Strong"
+        ],
+        "factionsTwo": [
+            "Blacks"
+        ],
+        "forcesOne": [
+            "Harrenhal garrison"
+        ],
+        "forcesTwo": [
+            "Daemon Targaryen",
+            "Caraxes"
+        ],
+        "name": "Assault on Harrenhal",
+        "place": [
+            "Harrenhal"
+        ],
+        "slug": "Assault_on_Harrenhal",
+        "updatedAt": "2019-04-10T07:15:27.779Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e5ffe",
+        "casualties": [],
+        "commandersOne": [
+            "Ser Joffrey Dayne"
+        ],
+        "commandersTwo": [],
+        "conflict": "First Dornish War",
+        "createdAt": "2019-04-10T07:15:27.779Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "House Dayne"
+        ],
+        "factionsTwo": [],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Assault on Oldtown",
+        "place": [
+            "Oldtown"
+        ],
+        "slug": "Assault_on_Oldtown",
+        "updatedAt": "2019-04-10T07:15:27.779Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e5fff",
+        "casualties": [
+            "Light",
+            "Heavy"
+        ],
+        "commandersOne": [
+            "Ramsay Snow"
+        ],
+        "commandersTwo": [
+            "Princess Yara Greyjoy"
+        ],
+        "conflict": "Ironborn Invasion of the NorthWar of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.780Z",
+        "factionsOne": [
+            "House Bolton"
+        ],
+        "factionsTwo": [
+            "House Greyjoy"
+        ],
+        "forcesOne": [
+            "Unknown number of Northmen",
+            "Prince Theon Greyjoy"
+        ],
+        "forcesTwo": [
+            "51 Ironborn raiders"
+        ],
+        "name": "Assault on the Dreadfort",
+        "place": [
+            "The Dreadfort",
+            " the North"
+        ],
+        "slug": "Assault_on_the_Dreadfort",
+        "updatedAt": "2019-04-10T07:15:27.780Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6000",
+        "casualties": [
+            "Moderate crew losses, light ship casualties",
+            "Nearly absoluteObara SandNymeria SandAt least 97 ships sunk or captured"
+        ],
+        "commandersOne": [
+            "King Euron Greyjoy"
+        ],
+        "commandersTwo": [
+            "Queen Yara Greyjoy ",
+            "Prince Theon Greyjoy",
+            "Captain Harrag",
+            "Ellaria Sand "
+        ],
+        "conflict": "Daenerys Targaryen's invasion of Westeros",
+        "createdAt": "2019-04-10T07:15:27.780Z",
+        "factionsOne": [
+            "Salt Throne"
+        ],
+        "factionsTwo": [
+            "House Greyjoy",
+            "Dorne"
+        ],
+        "forcesOne": [
+            "Iron Fleet~1,000 ships,",
+            "including SilenceIronborn warriors"
+        ],
+        "forcesTwo": [
+            "Targaryen FleetAt least 100 ships in Yara's Iron Fleet,",
+            "including Black WindIronborn warriors3 Sand Snakes of Dorne"
+        ],
+        "name": "Assault on the Targaryen Fleet",
+        "place": [
+            "Blackwater Bay"
+        ],
+        "slug": "Assault_on_the_Targaryen_Fleet",
+        "updatedAt": "2019-04-10T07:15:27.780Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6001",
+        "casualties": [
+            "Minimal, if any",
+            "MassiveKraznys mo NaklozGreizhen mo UllhorMost, if not all Good Masters"
+        ],
+        "commandersOne": [
+            "Queen Daenerys",
+            "Targaryen",
+            "Ser Jorah Mormont",
+            "Ser Barristan Selmy"
+        ],
+        "commandersTwo": [
+            "Good Masters &",
+            "Kraznys mo",
+            "Nakloz &",
+            "Greizhen mo",
+            "Ullhor &"
+        ],
+        "conflict": "Liberation of Slaver's Bay",
+        "createdAt": "2019-04-10T07:15:27.781Z",
+        "factionsOne": [
+            "House Targaryen"
+        ],
+        "factionsTwo": [
+            "Astapor"
+        ],
+        "forcesOne": [
+            "Over 8,000",
+            "UnsulliedUnder 100 Khalasar3 Dragons"
+        ],
+        "forcesTwo": [
+            "Astapori defenders, mostly household and civic guards"
+        ],
+        "name": "Sack of Astapor",
+        "place": [
+            "Astapor",
+            " Slaver's Bay"
+        ],
+        "slug": "Sack_of_Astapor",
+        "updatedAt": "2019-04-10T07:15:27.781Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6002",
+        "casualties": [
+            "Unknown",
+            "Unknown"
+        ],
+        "commandersOne": [
+            "Wise Masters"
+        ],
+        "commandersTwo": [
+            "Emperor Cleon"
+        ],
+        "conflict": "Liberation of Slaver's Bay",
+        "createdAt": "2019-04-10T07:15:27.781Z",
+        "factionsOne": [
+            "Yunkai"
+        ],
+        "factionsTwo": [
+            "Empire of Astapor"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Siege of Astapor",
+        "place": [
+            "Astapor",
+            " Slaver's Bay"
+        ],
+        "slug": "Siege_of_Astapor",
+        "updatedAt": "2019-04-10T07:15:27.781Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6003",
+        "casualties": [
+            "Aemond &",
+            "Vhagar &",
+            "Daemon &",
+            "Caraxes &"
+        ],
+        "commandersOne": [
+            "Prince Aemond",
+            "Targaryen &"
+        ],
+        "commandersTwo": [
+            "Prince Daemon",
+            "Targaryen &"
+        ],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.781Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Greens"
+        ],
+        "factionsTwo": [
+            "Blacks"
+        ],
+        "forcesOne": [
+            "Aemond on Vhagar"
+        ],
+        "forcesTwo": [
+            "Daemon on Caraxes"
+        ],
+        "name": "Battle Above the Gods Eye",
+        "place": [
+            "The skies above Harrenhal",
+            " The Riverlands"
+        ],
+        "slug": "Battle_Above_the_Gods_Eye",
+        "updatedAt": "2019-04-10T07:15:27.781Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6004",
+        "casualties": [
+            "Heavy",
+            "Heavy"
+        ],
+        "commandersOne": [
+            "King Raymun",
+            "Redbeard &"
+        ],
+        "commandersTwo": [
+            "Lord Stark",
+            "Lord Umber"
+        ],
+        "conflict": "",
+        "createdAt": "2019-04-10T07:15:27.782Z",
+        "factionsOne": [
+            "Free Folk"
+        ],
+        "factionsTwo": [
+            "House Stark",
+            "House Umber"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Battle at Long Lake",
+        "place": [
+            "The shores of Long Lake",
+            " The North",
+            " Westeros"
+        ],
+        "slug": "Battle_at_Long_Lake",
+        "updatedAt": "2019-04-10T07:15:27.782Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6005",
+        "casualties": [
+            "Three-Eyed RavenAll Children of the ForestLeafHodorSummer",
+            "One White WalkerHundreds of Wights"
+        ],
+        "commandersOne": [
+            "The Three-Eyed Raven &",
+            "Brandon Stark"
+        ],
+        "commandersTwo": [
+            "The Night King"
+        ],
+        "conflict": "Conflict Beyond the Wall",
+        "createdAt": "2019-04-10T07:15:27.786Z",
+        "factionsOne": [
+            "House Stark",
+            "Three-Eyed Raven",
+            "Children of the Forest"
+        ],
+        "factionsTwo": [
+            "White Walkers",
+            "Army of the Dead"
+        ],
+        "forcesOne": [
+            "Three-Eyed Raven &",
+            "6 of the Children of the Forest &Leaf &",
+            "Bran Stark",
+            "Meera Reed",
+            "Hodor &",
+            "Summer &",
+            "Benjen Stark"
+        ],
+        "forcesTwo": [
+            "The Night King",
+            "3 White WalkersWight army"
+        ],
+        "name": "Battle at the Cave of the Three-Eyed Raven",
+        "place": [
+            "Cave of the Three-Eyed Raven",
+            " Beyond the Wall"
+        ],
+        "slug": "Battle_at_the_Cave_of_the_Three-Eyed_Raven",
+        "updatedAt": "2019-04-10T07:15:27.786Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6006",
+        "casualties": [
+            "Near AbsoluteMost Forrester men-at-arms killed or",
+            "capturedBowen",
+            "Erik",
+            "Presumably all pit fightersAmayaBloodsong",
+            "Ser Royland Degore",
+            "Duncan Tuttle",
+            "Lady Elissa ForresterOrtengryn",
+            "ModerateMany Whitehill men-at-armsLord Ludd Whitehill",
+            "Gryff Whitehill",
+            "Harys"
+        ],
+        "commandersOne": [
+            "Lord Rodrik Forrester",
+            "Lord Asher Forrester",
+            "Ser Royland Degore",
+            "Duncan Tuttle",
+            "Amaya &",
+            "Beskha"
+        ],
+        "commandersTwo": [
+            "Lord Ludd Whitehill",
+            "Gryff Whitehill",
+            "Harys &"
+        ],
+        "conflict": "Forrester-Whitehill conflict",
+        "createdAt": "2019-04-10T07:15:27.786Z",
+        "factionsOne": [
+            "House Forrester",
+            "Meereenese Warriors"
+        ],
+        "factionsTwo": [
+            "House Whitehill"
+        ],
+        "forcesOne": [
+            "~30 men-at-arms~10 Archers",
+            "~20 Pit Fighters"
+        ],
+        "forcesTwo": [
+            "~450 Whitehills~40 Warricks"
+        ],
+        "name": "Battle of Ironrath",
+        "place": [
+            "Ironrath"
+        ],
+        "slug": "Battle_of_Ironrath",
+        "updatedAt": "2019-04-10T07:15:27.786Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6007",
+        "casualties": [
+            "Massive Stark-Wildling casualtiesRickon",
+            "StarkWun Weg Wun Dar WunMinimal Arryn",
+            "casualties",
+            "Total annihilation of the Bolton army; few",
+            "survivors capturedLord Ramsay",
+            "Bolton Lord Smalljon",
+            "UmberLord Harald",
+            "Karstark"
+        ],
+        "commandersOne": [
+            "Jon Snow",
+            "Chieftain Tormund",
+            "Lady Lyanna Mormont",
+            "Ser Davos Seaworth",
+            "Lord Mazin",
+            "Sansa Stark",
+            "Lord Petyr Baelish",
+            "Lord Yohn Royce"
+        ],
+        "commandersTwo": [
+            "Lord Ramsay Bolton",
+            "Lord Harald Karstark &",
+            "Lord Smalljon Umber &"
+        ],
+        "conflict": "War for the North",
+        "createdAt": "2019-04-10T07:15:27.787Z",
+        "factionsOne": [
+            "House Stark",
+            "House Mormont",
+            "House Hornwood",
+            "House Mazin",
+            "Free Folk",
+            "House Arryn",
+            "House Royce"
+        ],
+        "factionsTwo": [
+            "House Bolton &",
+            "House Karstark",
+            "House Umber"
+        ],
+        "forcesOne": [
+            "Around 2,400 men",
+            "2,000 Free Folk",
+            "warriors",
+            "200 Hornwood",
+            "soldiers",
+            "143 Mazin soldiers",
+            "62 Mormont soldiers",
+            "1 giant",
+            "Reinforcements:",
+            "2,000 mounted knights of the Vale"
+        ],
+        "forcesTwo": [
+            "Around 6,000 men",
+            "5,000 Bolton",
+            "soldiers1,000 soldiers",
+            "contributions by House Karstark and House Umber"
+        ],
+        "name": "Battle of the Bastards",
+        "place": [
+            "Winterfell",
+            " the North"
+        ],
+        "slug": "Battle_of_the_Bastards",
+        "updatedAt": "2019-04-10T07:15:27.787Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6008",
+        "casualties": [
+            "Over 200 men",
+            "Numerous horses",
+            "Unknown",
+            "At least 1 wight"
+        ],
+        "commandersOne": [
+            "Lord Commander Jeor Mormont"
+        ],
+        "commandersTwo": [
+            "White Walker",
+            "Commander"
+        ],
+        "conflict": "Conflict Beyond the Wall",
+        "createdAt": "2019-04-10T07:15:27.787Z",
+        "factionsOne": [
+            "Night's Watch"
+        ],
+        "factionsTwo": [
+            "White Walkers"
+        ],
+        "forcesOne": [
+            "~300 men, including:  GrennEddison TollettKarl TannerRastBannen"
+        ],
+        "forcesTwo": [
+            "White Walkers",
+            "Hundreds of wights"
+        ],
+        "name": "Battle of the Fist of the First Men",
+        "place": [
+            "Fist of the First Men",
+            " Beyond the Wall"
+        ],
+        "slug": "Battle_of_the_Fist_of_the_First_Men",
+        "updatedAt": "2019-04-10T07:15:27.787Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6009",
+        "casualties": [
+            "HeavyRandyll Tarly",
+            "Dickon Tarly",
+            "Anti-dragon scorpion destroyedRemainder of the Lannister force bends the knee to Daenerys",
+            "Mild",
+            "Drogon mildly wounded"
+        ],
+        "commandersOne": [
+            "Ser Jaime Lannister",
+            "Ser Bronn",
+            "Lord Randyll Tarly",
+            "Dickon Tarly"
+        ],
+        "commandersTwo": [
+            "Queen Daenerys",
+            "Targaryen",
+            "Lord Hand Tyrion Lannister",
+            "Ko Qhono"
+        ],
+        "conflict": "Daenerys Targaryen's invasion of Westeros",
+        "createdAt": "2019-04-10T07:15:27.787Z",
+        "factionsOne": [
+            "Iron Throne",
+            "House Tarly"
+        ],
+        "factionsTwo": [
+            "House Targaryen",
+            "Dothraki"
+        ],
+        "forcesOne": [
+            "~10,000 Lannister",
+            "Infantry and archers",
+            "Unknown number of Tarly soldiers",
+            "1 heavy anti-dragon scorpion"
+        ],
+        "forcesTwo": [
+            "100,000 Dothraki",
+            "light cavalry",
+            "1 dragon "
+        ],
+        "name": "Battle of the Goldroad",
+        "place": [
+            "Crossing of the Goldroad over the Blackwater Rush",
+            " northern border of the Reach"
+        ],
+        "slug": "Battle_of_the_Goldroad",
+        "updatedAt": "2019-04-10T07:15:27.787Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e600a",
+        "casualties": [
+            "Presumably moderate to low",
+            "Prince Jacaerys",
+            "Velaryon &",
+            "Prince Aegon",
+            "Targaryen ",
+            "Prince Viserys",
+            "Targaryen ",
+            "2 dragons dead",
+            "1 dragon badly",
+            "injured",
+            "Unknown number of ships sunk"
+        ],
+        "commandersOne": [
+            "Unknown"
+        ],
+        "commandersTwo": [
+            "Prince Jacaerys",
+            "Velaryon &"
+        ],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.788Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Greens",
+            "Kingdom of the Three Daughters:LysMyrTyrosh"
+        ],
+        "factionsTwo": [
+            "Blacks",
+            "House Velaryon"
+        ],
+        "forcesOne": [
+            "Unknown number of ships"
+        ],
+        "forcesTwo": [
+            "3 Dragons",
+            "Unknown number of ships"
+        ],
+        "name": "Battle of the Gullet",
+        "place": [
+            "Gullet"
+        ],
+        "slug": "Battle_of_the_Gullet",
+        "updatedAt": "2019-04-10T07:15:27.788Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e600b",
+        "casualties": [
+            "HeavyThousands of",
+            "Targaryen and",
+            "Dornish soldiers",
+            "HeavyThousands of rebel forcesDaemon Blackfyre and two of his sons"
+        ],
+        "commandersOne": [
+            "Lord Brynden Rivers",
+            "Prince Baelor",
+            "Targaryen",
+            "Prince Maekar",
+            "Targaryen"
+        ],
+        "commandersTwo": [
+            "Daemon I",
+            "Blackfyre &",
+            "Lord Aegor Rivers"
+        ],
+        "conflict": "Blackfyre Rebellion",
+        "createdAt": "2019-04-10T07:15:27.788Z",
+        "factionsOne": [
+            "House Targaryen",
+            "House Martell",
+            "House Baratheon"
+        ],
+        "factionsTwo": [
+            "House Blackfyre"
+        ],
+        "forcesOne": [
+            "Royalist Army",
+            "Allied Dornish Army"
+        ],
+        "forcesTwo": [
+            "Rebel Army"
+        ],
+        "name": "Battle of the Redgrass Field",
+        "place": [
+            "The Redgrass Field",
+            " southwest of King's Landing"
+        ],
+        "slug": "Battle_of_the_Redgrass_Field",
+        "updatedAt": "2019-04-10T07:15:27.788Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e600c",
+        "casualties": [],
+        "commandersOne": [
+            "Ser Artys Arryn",
+            "The Winged Knight"
+        ],
+        "commandersTwo": [
+            "The Griffin King &",
+            "King Robar II Royce &"
+        ],
+        "conflict": "Andal Invasion",
+        "createdAt": "2019-04-10T07:15:27.788Z",
+        "factionsOne": [
+            "Andals:",
+            "House Arryn"
+        ],
+        "factionsTwo": [
+            "First Men:",
+            "House Royce"
+        ],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Battle of the Seven Stars",
+        "place": [
+            "Giant's Lance",
+            " the Vale"
+        ],
+        "slug": "Battle_of_the_Seven_Stars",
+        "updatedAt": "2019-04-10T07:15:27.788Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e600d",
+        "casualties": [
+            "Unknown",
+            "Unknown,",
+            "heavier than the rebels"
+        ],
+        "commandersOne": [
+            "Lord Robert Baratheon",
+            "Lord Eddard Stark",
+            "Lord Jon Arryn",
+            "Lord Hoster Tully"
+        ],
+        "commandersTwo": [
+            "Lord Hand Jon",
+            "Connington",
+            "Ser Jonothor Darry"
+        ],
+        "conflict": "Robert's Rebellion",
+        "createdAt": "2019-04-10T07:15:27.789Z",
+        "factionsOne": [
+            "House Baratheon",
+            "House Stark",
+            "House Arryn",
+            "House Tully"
+        ],
+        "factionsTwo": [
+            "Iron Throne"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Battle of the Bells",
+        "place": [
+            "Stoney Sept",
+            " The Riverlands"
+        ],
+        "slug": "Battle_of_the_Bells",
+        "updatedAt": "2019-04-10T07:15:27.789Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e600e",
+        "casualties": [
+            "Heavy",
+            "Many gold cloaks deserted",
+            "Ser Mandon Moore",
+            "At least 16,000 killed or wounded.At least 138 ships &quot;Black Betha&quot;Matthos Seaworth"
+        ],
+        "commandersOne": [
+            "King's Landing:",
+            "King Joffrey I Baratheon",
+            "Lord Hand Tyrion",
+            "Lannister",
+            "Commander Bronn",
+            "Wisdom Hallyne",
+            "Relief Force:",
+            "Lord Tywin Lannister",
+            "Lord Mace Tyrell",
+            "Ser Loras Tyrell"
+        ],
+        "commandersTwo": [
+            "King Stannis I Baratheon",
+            "Ser",
+            "Davos Seaworth",
+            "First Mate Matthos Seaworth &",
+            "Ser Imry Florent",
+            "Captain Salladhor Saan"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.789Z",
+        "factionsOne": [
+            "Iron Throne",
+            "Kingsguard",
+            "City Watch of King's Landing",
+            "Crownlands",
+            "Bannermen",
+            "House Stokeworth",
+            "House Lannister",
+            "Tywin Lannister's Host",
+            "House Tyrell"
+        ],
+        "factionsTwo": [
+            "House Baratheon of Dragonstone",
+            "Houses of the Narrow Sea",
+            "House Velaryon",
+            "Houses of The",
+            "Stormlands",
+            "House Seaworth",
+            "House Florent",
+            "Lysene Sellsails"
+        ],
+        "forcesOne": [
+            "2,000 men of the City Watch",
+            "Unknown number of soldiers of the House Lannister",
+            "20 ships of the Royal Navy",
+            "Unknown number of Lannister reinforcements and at least 15,800 of House Tyrell"
+        ],
+        "forcesTwo": [
+            "More than 20,000 men",
+            "~200 ships, including 30 Lysene sellsailsFury",
+            "Black Betha"
+        ],
+        "name": "Battle of the Blackwater",
+        "place": [
+            "King's Landing and the mouth of the Blackwater Rush",
+            " theCrownlands"
+        ],
+        "slug": "Battle_of_the_Blackwater",
+        "updatedAt": "2019-04-10T07:15:27.789Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e600f",
+        "casualties": [
+            "HeavyEastwatch castle destroyed",
+            "None"
+        ],
+        "commandersOne": [],
+        "commandersTwo": [],
+        "conflict": "Conflict Beyond the Wall / Great War",
+        "createdAt": "2019-04-10T07:15:27.790Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Night's Watch",
+            "Free Folk",
+            "Brotherhood Without Banners"
+        ],
+        "factionsTwo": [
+            "White Walkers",
+            "Army of the dead"
+        ],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Breaching of the Wall",
+        "place": [
+            "Eastwatch-by-the-Sea",
+            " the Wall",
+            " the Gift"
+        ],
+        "slug": "Breaching_of_the_Wall",
+        "updatedAt": "2019-04-10T07:15:27.790Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6010",
+        "casualties": [
+            "Minimal",
+            "Heavy",
+            "King Harren and all his sons;",
+            "Castle populace",
+            "exterminated"
+        ],
+        "commandersOne": [
+            "King Aegon I",
+            "Targaryen",
+            "Lord Edmyn Tully"
+        ],
+        "commandersTwo": [
+            "King Harren Hoare &"
+        ],
+        "conflict": "War of Conquest",
+        "createdAt": "2019-04-10T07:15:27.790Z",
+        "factionsOne": [
+            "House Targaryen",
+            "The Riverlords led by House Tully"
+        ],
+        "factionsTwo": [
+            "The Isles and Rivers"
+        ],
+        "forcesOne": [
+            "Uncertain",
+            "1 dragon "
+        ],
+        "forcesTwo": [
+            "Uncertain",
+            "Harrenhal Garrison"
+        ],
+        "name": "Burning of Harrenhal",
+        "place": [
+            "Harrenhal",
+            " the Riverlands"
+        ],
+        "slug": "Burning_of_Harrenhal",
+        "updatedAt": "2019-04-10T07:15:27.790Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6011",
+        "casualties": [
+            "Low",
+            "Heavy"
+        ],
+        "commandersOne": [
+            "Unknown"
+        ],
+        "commandersTwo": [
+            "Unknown vassals of House Greyjoy"
+        ],
+        "conflict": "Spillover of the Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.790Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "House Lannister"
+        ],
+        "factionsTwo": [
+            "House Greyjoy"
+        ],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Burning of the Iron Islands",
+        "place": [
+            "Iron Islands"
+        ],
+        "slug": "Burning_of_the_Iron_Islands",
+        "updatedAt": "2019-04-10T07:15:27.790Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6012",
+        "casualties": [
+            "None",
+            "Complete destruction"
+        ],
+        "commandersOne": [
+            "King Maegor I Targaryen"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Faith Militant uprising",
+        "createdAt": "2019-04-10T07:15:27.791Z",
+        "factionsOne": [
+            "Iron Throne"
+        ],
+        "factionsTwo": [
+            "Faith of the Seven"
+        ],
+        "forcesOne": [
+            "1 Dragon ",
+            "Unknown amount of soldiers"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Burning of the Sept of Remembrance",
+        "place": [
+            "Sept of Remembrance",
+            " King's Landing",
+            " Westeros"
+        ],
+        "slug": "Burning_of_the_Sept_of_Remembrance",
+        "updatedAt": "2019-04-10T07:15:27.791Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6013",
+        "casualties": [
+            "Heavy",
+            "Light"
+        ],
+        "commandersOne": [
+            "Lord Hand Criston Cole &"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.791Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Greens",
+            "Kingsguard"
+        ],
+        "factionsTwo": [
+            "Blacks",
+            "Riverlords"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Butcher's Ball",
+        "place": [
+            "Near of the Gods Eye"
+        ],
+        "slug": "Butcher%27s_Ball",
+        "updatedAt": "2019-04-10T07:15:27.791Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6014",
+        "casualties": [
+            "Low",
+            "High"
+        ],
+        "commandersOne": [
+            "Lord Robb Stark",
+            "Lord Rickard Karstark",
+            "Lord Greatjon Umber"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.791Z",
+        "factionsOne": [
+            "House Stark",
+            "House Karstark",
+            "House Umber",
+            "House Frey"
+        ],
+        "factionsTwo": [
+            "House Lannister",
+            "House Marbrand",
+            "House Lorch",
+            "House Westerling"
+        ],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Battle of the Camps",
+        "place": [
+            "Riverrun",
+            " the Riverlands"
+        ],
+        "slug": "Battle_of_the_Camps",
+        "updatedAt": "2019-04-10T07:15:27.791Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6015",
+        "casualties": [
+            "Light, if any",
+            "Total"
+        ],
+        "commandersOne": [
+            "Ser Brynden Tully"
+        ],
+        "commandersTwo": [
+            "Lothar Frey",
+            "Walder Rivers"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.792Z",
+        "factionsOne": [
+            "House Tully"
+        ],
+        "factionsTwo": [
+            "House Frey"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Capture of Riverrun",
+        "place": [
+            "Riverrun",
+            " the Riverlands"
+        ],
+        "slug": "Capture_of_Riverrun",
+        "updatedAt": "2019-04-10T07:15:27.792Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6016",
+        "casualties": [
+            "50 men of the Night's WatchPypar &Grenn &Hill &Cooper &Minimal Baratheon casualties",
+            "Heavy Entire southern",
+            "assault force",
+            "eliminated",
+            "Styr &Thenn Warg &Ygritte &Dongo &Mag Mar Tun Doh Weg &Main force killed, scattered, or captured "
+        ],
+        "commandersOne": [
+            "Acting Lord Commander Alliser Thorne ",
+            "Janos Slynt",
+            "Jon Snow",
+            "Eddison Tollett",
+            "King Stannis Baratheon",
+            "Lord Hand",
+            "Davos Seaworth"
+        ],
+        "commandersTwo": [
+            "King Mance Rayder",
+            "Chieftain Tormund ",
+            "Magnar Styr &",
+            "King Mag Mar Tun Doh Weg &"
+        ],
+        "conflict": "Conflict Beyond the Wall / War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.792Z",
+        "factionsOne": [
+            "Night's Watch",
+            "House Baratheon of Dragonstone"
+        ],
+        "factionsTwo": [
+            "Free Folk"
+        ],
+        "forcesOne": [
+            "Day 1: ~1001 direwolf ",
+            "Day 2: ~2,800 Baratheon cavalry"
+        ],
+        "forcesTwo": [
+            "~100,000 wildlingsTormund's warbandStyr's warband2 giants1 mammoth"
+        ],
+        "name": "Battle of Castle Black",
+        "place": [
+            "Castle Black",
+            " the Wall"
+        ],
+        "slug": "Battle_of_Castle_Black",
+        "updatedAt": "2019-04-10T07:15:27.792Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6017",
+        "casualties": [
+            "Five black brothersLocke",
+            "All mutineers killed"
+        ],
+        "commandersOne": [
+            "Jon SnowPrince Bran Stark"
+        ],
+        "commandersTwo": [
+            "Karl Tanner &"
+        ],
+        "conflict": "Conflict Beyond the WallWar of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.792Z",
+        "factionsOne": [
+            "Night's Watch",
+            "House Bolton",
+            " House Stark"
+        ],
+        "factionsTwo": [
+            "Mutineers"
+        ],
+        "forcesOne": [
+            "Grenn",
+            "Eddison Tollett",
+            "Locke &",
+            "Ghost",
+            "Other black brothers",
+            "Jojen ReedMeera ReedHodor"
+        ],
+        "forcesTwo": [
+            "11 Mutinous black brothersRast &"
+        ],
+        "name": "Raid on Craster's Keep",
+        "place": [
+            "Craster's Keep",
+            " the Haunted Forest",
+            " Beyond the Wall"
+        ],
+        "slug": "Raid_on_Craster%27s_Keep",
+        "updatedAt": "2019-04-10T07:15:27.792Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6018",
+        "casualties": [
+            "None",
+            "Lucerys VelaryonArrax"
+        ],
+        "commandersOne": [],
+        "commandersTwo": [],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.793Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Greens"
+        ],
+        "factionsTwo": [
+            "Blacks"
+        ],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Dance Over Storm's End",
+        "place": [
+            "Above Storm's End",
+            " the Stormlands"
+        ],
+        "slug": "Dance_Over_Storm%27s_End",
+        "updatedAt": "2019-04-10T07:15:27.793Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6019",
+        "casualties": [
+            "Meraxes",
+            "Rhaenys Targaryen",
+            "Many Uller infantry"
+        ],
+        "commandersOne": [
+            "Queen Rhaenys",
+            "Targaryen &"
+        ],
+        "commandersTwo": [
+            "Lord Uller"
+        ],
+        "conflict": "First Dornish War",
+        "createdAt": "2019-04-10T07:15:27.793Z",
+        "factionsOne": [
+            "Iron Throne"
+        ],
+        "factionsTwo": [
+            "Dorne",
+            "House Uller"
+        ],
+        "forcesOne": [
+            "1 dragonMeraxes"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Death of Meraxes",
+        "place": [
+            "Hellholt"
+        ],
+        "slug": "Death_of_Meraxes",
+        "updatedAt": "2019-04-10T07:15:27.793Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e601a",
+        "casualties": [
+            "Unknown",
+            "Civilian casualties"
+        ],
+        "commandersOne": [
+            "Princess Yara Greyjoy"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Ironborn Invasion of the NorthWar of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.793Z",
+        "factionsOne": [
+            "Salt Throne"
+        ],
+        "factionsTwo": [
+            "House Glover"
+        ],
+        "forcesOne": [
+            "At least 500 men"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "First Battle of Deepwood Motte",
+        "place": [
+            "Deepwood Motte",
+            " the North"
+        ],
+        "slug": "First_Battle_of_Deepwood_Motte",
+        "updatedAt": "2019-04-10T07:15:27.794Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e601b",
+        "casualties": [
+            "300 Killed659 Injured",
+            "Complete (in the",
+            "castle)",
+            "Heavy (on the",
+            "battlefield)Tion TarbeckEllyn Tarbeck"
+        ],
+        "commandersOne": [
+            "Ser Tywin Lannister",
+            "Ser Kevan Lannister"
+        ],
+        "commandersTwo": [
+            "Lady Ellyn Tarbeck &",
+            "Lord Roger Reyne "
+        ],
+        "conflict": "Reyne Rebellion",
+        "createdAt": "2019-04-10T07:15:27.794Z",
+        "factionsOne": [
+            "House Lannister"
+        ],
+        "factionsTwo": [
+            "House Tarbeck &",
+            "House Reyne"
+        ],
+        "forcesOne": [
+            "13,000 Men From Westerlands Houses500 Knights",
+            "3,000 Crossbowmen"
+        ],
+        "forcesTwo": [
+            "2,000 Men of House Reyne400 Men From House Tarbeck",
+            "500 Knights"
+        ],
+        "name": "Destruction of Tarbeck Hall",
+        "place": [
+            "Tarbeck Hall"
+        ],
+        "slug": "Destruction_of_Tarbeck_Hall",
+        "updatedAt": "2019-04-10T07:15:27.794Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e601c",
+        "casualties": [],
+        "commandersOne": [],
+        "commandersTwo": [],
+        "conflict": "",
+        "createdAt": "2019-04-10T07:15:27.794Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Dornish forces"
+        ],
+        "factionsTwo": [
+            "The Reach"
+        ],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Dornish Sack of Highgarden",
+        "place": [
+            "Highgarden"
+        ],
+        "slug": "Dornish_Sack_of_Highgarden",
+        "updatedAt": "2019-04-10T07:15:27.794Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e601d",
+        "casualties": [
+            "Moderate",
+            "Heavy"
+        ],
+        "commandersOne": [
+            "King Aegon I",
+            "Targaryen",
+            "Queen Visenya",
+            "Targaryen"
+        ],
+        "commandersTwo": [
+            "Princess Meria Martell"
+        ],
+        "conflict": "First Dornish War",
+        "createdAt": "2019-04-10T07:15:27.795Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Iron Throne"
+        ],
+        "factionsTwo": [
+            "Dorne"
+        ],
+        "forcesOne": [
+            "Targaryen Army",
+            "2 DragonsBalerionVhagar"
+        ],
+        "forcesTwo": [
+            "Dorne Army"
+        ],
+        "name": "Dragon's Wroth",
+        "place": [
+            "Dorne"
+        ],
+        "slug": "Dragon%27s_Wroth",
+        "updatedAt": "2019-04-10T07:15:27.795Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e601e",
+        "casualties": [
+            "Light",
+            "Light",
+            "Garrison surrendered"
+        ],
+        "commandersOne": [
+            "Ser Stannis Baratheon"
+        ],
+        "commandersTwo": [
+            "Ser Willem Darry"
+        ],
+        "conflict": "Robert's Rebellion",
+        "createdAt": "2019-04-10T07:15:27.795Z",
+        "factionsOne": [
+            "Iron Throne"
+        ],
+        "factionsTwo": [
+            "House Targaryen"
+        ],
+        "forcesOne": [
+            "Royal FleetFury"
+        ],
+        "forcesTwo": [
+            "Dragonstone",
+            "garrison"
+        ],
+        "name": "Assault on Dragonstone",
+        "place": [
+            "Dragonstone",
+            " Blackwater Bay"
+        ],
+        "slug": "Assault_on_Dragonstone",
+        "updatedAt": "2019-04-10T07:15:27.795Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e601f",
+        "casualties": [
+            "The Waif",
+            "Lady Crane"
+        ],
+        "commandersOne": [
+            "Jaqen H'ghar"
+        ],
+        "commandersTwo": [
+            "Arya Stark"
+        ],
+        "conflict": "",
+        "createdAt": "2019-04-10T07:15:27.795Z",
+        "factionsOne": [
+            "Faceless Men"
+        ],
+        "factionsTwo": [
+            "Arya Stark"
+        ],
+        "forcesOne": [
+            "The Waif &"
+        ],
+        "forcesTwo": [
+            "Arya Stark",
+            "Lady Crane &"
+        ],
+        "name": "Duel in Braavos",
+        "place": [
+            "Braavos",
+            " the Free Cities"
+        ],
+        "slug": "Duel_in_Braavos",
+        "updatedAt": "2019-04-10T07:15:27.795Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6020",
+        "casualties": [
+            "HeavyIron Fleet",
+            "Light"
+        ],
+        "commandersOne": [
+            "Captain Euron Greyjoy",
+            "Captain Aeron Greyjoy"
+        ],
+        "commandersTwo": [
+            "Lord Stannis Baratheon"
+        ],
+        "conflict": "Greyjoy Rebellion",
+        "createdAt": "2019-04-10T07:15:27.796Z",
+        "factionsOne": [
+            "Salt Throne"
+        ],
+        "factionsTwo": [
+            "House Baratheon of Dragonstone"
+        ],
+        "forcesOne": [
+            "Iron Fleet"
+        ],
+        "forcesTwo": [
+            "Royal Fleet"
+        ],
+        "name": "Battle of Fair Isle",
+        "place": [
+            "Fair Isle",
+            " the Westerlands"
+        ],
+        "slug": "Battle_of_Fair_Isle",
+        "updatedAt": "2019-04-10T07:15:27.796Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6021",
+        "casualties": [
+            "Unknown",
+            "Unknown"
+        ],
+        "commandersOne": [
+            "Ser Raymont Baratheon &"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Faith Militant uprising",
+        "createdAt": "2019-04-10T07:15:27.796Z",
+        "factionsOne": [
+            "House Targaryen",
+            "Kingsguard"
+        ],
+        "factionsTwo": [
+            "Faith Militant"
+        ],
+        "forcesOne": [
+            "Kingsguard",
+            "Castle Garrison"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Faith Militant raid on the Red Keep",
+        "place": [
+            "Red Keep",
+            " King's Landing",
+            " Westeros"
+        ],
+        "slug": "Faith_Militant_raid_on_the_Red_Keep",
+        "updatedAt": "2019-04-10T07:15:27.796Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6022",
+        "casualties": [
+            "Queens Helaena Targaryen and Alicent Hightower taken hostage",
+            "None"
+        ],
+        "commandersOne": [
+            "Green Council"
+        ],
+        "commandersTwo": [
+            "Queen Rhaenyra",
+            "Targaryen",
+            "Prince Daemon",
+            "Targaryen"
+        ],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.796Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Greens",
+            "City Watch"
+        ],
+        "factionsTwo": [
+            "Blacks"
+        ],
+        "forcesOne": [
+            "City Watch"
+        ],
+        "forcesTwo": [
+            "Two dragons"
+        ],
+        "name": "Fall of King's Landing",
+        "place": [
+            "King's Landing"
+        ],
+        "slug": "Fall_of_King%27s_Landing",
+        "updatedAt": "2019-04-10T07:15:27.796Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6023",
+        "casualties": [
+            "Unknown",
+            "Garrison destroyed or surrendered"
+        ],
+        "commandersOne": [
+            "Ralf KenningAdrack Humble"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Ironborn Invasion of the NorthWar of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.797Z",
+        "factionsOne": [
+            "House Greyjoy"
+        ],
+        "factionsTwo": [
+            "House Stark"
+        ],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Fall of Moat Cailin",
+        "place": [
+            "Moat Cailin",
+            " the North"
+        ],
+        "slug": "Fall_of_Moat_Cailin",
+        "updatedAt": "2019-04-10T07:15:27.797Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6024",
+        "casualties": [
+            "Heavy",
+            "Complete host destroyed",
+            "High King Mazor Alexi"
+        ],
+        "commandersOne": [
+            "Khal Haro &",
+            "Khal Qano",
+            "Khal Loso",
+            "Khal Zhako"
+        ],
+        "commandersTwo": [
+            "High King Mazor Alexi &"
+        ],
+        "conflict": "Century of Blood",
+        "createdAt": "2019-04-10T07:15:27.797Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Dothraki"
+        ],
+        "factionsTwo": [
+            "Kingdom of Sarnor &"
+        ],
+        "forcesOne": [
+            "80,000 riders"
+        ],
+        "forcesTwo": [
+            "100,000 foot soldiers",
+            "10,000 heavy cavalry",
+            "10,000 light cavalry",
+            "6,000 scythed chariots"
+        ],
+        "name": "Field of Crows",
+        "place": [
+            "Sarne",
+            " Kingdom of Sarnor",
+            " Essos"
+        ],
+        "slug": "Field_of_Crows",
+        "updatedAt": "2019-04-10T07:15:27.797Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6025",
+        "casualties": [
+            "Unknown",
+            "5,000 killedTens of thousands woundedKing Mern IXEntire male line of House Gardener wiped out"
+        ],
+        "commandersOne": [
+            "King Aegon I",
+            "Targaryen",
+            "Queen Visenya",
+            "Targaryen",
+            "Queen Rhaenys",
+            "Targaryen"
+        ],
+        "commandersTwo": [
+            "King Mern IX",
+            "Gardener &",
+            "King Loren I",
+            "Lannister"
+        ],
+        "conflict": "War of Conquest",
+        "createdAt": "2019-04-10T07:15:27.798Z",
+        "factionsOne": [
+            "House Targaryen"
+        ],
+        "factionsTwo": [
+            "Iron Fist",
+            "The Rock",
+            "The Reach"
+        ],
+        "forcesOne": [
+            "~10,000 men",
+            "3 dragonsBalerionMeraxesVhagar"
+        ],
+        "forcesTwo": [
+            "Nearly 60,000 men, including 5,000 knights and 55,000 men at arms"
+        ],
+        "name": "Field of Fire",
+        "place": [
+            "The northern Reach"
+        ],
+        "slug": "Field_of_Fire",
+        "updatedAt": "2019-04-10T07:15:27.798Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6026",
+        "casualties": [],
+        "commandersOne": [],
+        "commandersTwo": [],
+        "conflict": "",
+        "createdAt": "2019-04-10T07:15:27.798Z",
+        "dateOfBattle": null,
+        "factionsOne": [],
+        "factionsTwo": [],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "The Field of Fire",
+        "place": [
+            ""
+        ],
+        "slug": "The_Field_of_Fire",
+        "updatedAt": "2019-04-10T07:15:27.798Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6027",
+        "casualties": [
+            "LightYorenLommySurvivors captured",
+            "Minimal; several Lannister men killed"
+        ],
+        "commandersOne": [
+            "Recruiter Yoren &"
+        ],
+        "commandersTwo": [
+            "Ser Amory Lorch"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.798Z",
+        "factionsOne": [
+            "Night's Watch"
+        ],
+        "factionsTwo": [
+            "House Lannister",
+            "City Watch"
+        ],
+        "forcesOne": [
+            "Night's Watch recruitsGendry Arya Stark Hot Pie "
+        ],
+        "forcesTwo": [
+            "Lannister men-at-armsPolliverGoldcloaks"
+        ],
+        "name": "Raid by the Gods Eye",
+        "place": [
+            "Unidenfied holdfast by the Gods Eye",
+            " the Riverlands"
+        ],
+        "slug": "Raid_by_the_Gods_Eye",
+        "updatedAt": "2019-04-10T07:15:27.798Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6028",
+        "casualties": [],
+        "commandersOne": [
+            "Ser Jaime Lannister"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.799Z",
+        "factionsOne": [
+            "House Lannister",
+            "Unnamed Lannister Bannermen"
+        ],
+        "factionsTwo": [
+            "House Tully",
+            "Unnamed Tully",
+            "Bannermen"
+        ],
+        "forcesOne": [
+            "30,000 men"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Battle of the Golden Tooth",
+        "place": [
+            "Golden Tooth"
+        ],
+        "slug": "Battle_of_the_Golden_Tooth",
+        "updatedAt": "2019-04-10T07:15:27.799Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6029",
+        "casualties": [
+            "Unknown",
+            "Unknown"
+        ],
+        "commandersOne": [
+            "King-Beyond-the-Wall Gorne",
+            "King-Beyond-the-Wall Gendel"
+        ],
+        "commandersTwo": [
+            "King in the North",
+            "Lord Commander of the Night's Watch"
+        ],
+        "conflict": "",
+        "createdAt": "2019-04-10T07:15:27.799Z",
+        "factionsOne": [
+            "Free Folk"
+        ],
+        "factionsTwo": [
+            "House Stark",
+            "Night's Watch"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Gorne and Gendel's War",
+        "place": [
+            "The Gift"
+        ],
+        "slug": "Gorne_and_Gendel%27s_War",
+        "updatedAt": "2019-04-10T07:15:27.799Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e602a",
+        "casualties": [],
+        "commandersOne": [
+            "Queen Daenerys",
+            "Targaryen",
+            "Warden Jon Snow",
+            "Ser Jorah Mormont",
+            "Grey Worm",
+            "Ser Jaime Lannister",
+            "Lord Beric Dondarrion"
+        ],
+        "commandersTwo": [
+            "Night King"
+        ],
+        "conflict": "Great War",
+        "createdAt": "2019-04-10T07:15:27.799Z",
+        "factionsOne": [
+            "House Stark",
+            "House Targaryen",
+            "House Arryn",
+            "Brotherhood Without Banners"
+        ],
+        "factionsTwo": [
+            "White Walkers",
+            "Army of the dead"
+        ],
+        "forcesOne": [
+            "Stark infantry and archers",
+            "~8,000 Unsullied heavy infantry",
+            "~100,000 Dothraki light cavalry",
+            "2 dragons ",
+            "~2,000 knights of the Vale"
+        ],
+        "forcesTwo": [
+            "White Walkers",
+            "~100,000 wights",
+            "3 undead giants ",
+            "1 undead dragon "
+        ],
+        "name": "Great Battle of Winterfell",
+        "place": [
+            "Winterfell",
+            " the North"
+        ],
+        "slug": "Great_Battle_of_Winterfell",
+        "updatedAt": "2019-04-10T07:15:27.799Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e602b",
+        "casualties": [
+            "Unknown",
+            "Unknown"
+        ],
+        "commandersOne": [
+            "Lord Stannis Baratheon"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Greyjoy Rebellion",
+        "createdAt": "2019-04-10T07:15:27.800Z",
+        "factionsOne": [
+            "House Baratheon of Dragonstone"
+        ],
+        "factionsTwo": [
+            "Salt Throne"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Siege of Great Wyk",
+        "place": [
+            "Great Wyk",
+            " the Iron Islands"
+        ],
+        "slug": "Siege_of_Great_Wyk",
+        "updatedAt": "2019-04-10T07:15:27.800Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e602c",
+        "casualties": [
+            "Light; a couple hundred or less",
+            "(Mostly Hill",
+            "Tribesmen)",
+            "Army broken, 2,000 killed or captured"
+        ],
+        "commandersOne": [
+            "Lord Tywin Lannister",
+            "Ser Kevan Lannister",
+            "Ser Addam Marbrand",
+            "Lord Leo Lefford",
+            "Tyrion Lannister"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.800Z",
+        "factionsOne": [
+            "House Lannister",
+            "Lannister Vassal Houses",
+            "Hill Tribes of The ValeStone CrowsBurned MenBlack EarsMoon BrothersPainted Dogs"
+        ],
+        "factionsTwo": [
+            "House Stark",
+            "Stark Vassal Houses"
+        ],
+        "forcesOne": [
+            "30,000 Lannister",
+            "soldiersAn unknown number of hill tribesmen"
+        ],
+        "forcesTwo": [
+            "2,000 Northern",
+            "soldiers"
+        ],
+        "name": "Battle of the Green Fork",
+        "place": [
+            "Along the western side of the Green Fork in the Riverlands"
+        ],
+        "slug": "Battle_of_the_Green_Fork",
+        "updatedAt": "2019-04-10T07:15:27.800Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e602d",
+        "casualties": [
+            "Light, if any",
+            "MassiveKing Aerys II",
+            "Targaryen &Princess Elia Martell &Prince Aegon",
+            "Targaryen &Princess Rhaenys Targaryen &Wisdom Rossart &"
+        ],
+        "commandersOne": [
+            "Lord Tywin Lannister",
+            "Ser Gregor Clegane"
+        ],
+        "commandersTwo": [
+            "King Aerys II",
+            "Targaryen &",
+            "Lord Hand Wisdom Rossart &"
+        ],
+        "conflict": "Robert's Rebellion",
+        "createdAt": "2019-04-10T07:15:27.801Z",
+        "factionsOne": [
+            "House Lannister",
+            "House Clegane"
+        ],
+        "factionsTwo": [
+            "Iron Throne",
+            "Alchemists' Guild"
+        ],
+        "forcesOne": [
+            "10,000",
+            "Lannister soldiers"
+        ],
+        "forcesTwo": [
+            "Small number of",
+            "defenders"
+        ],
+        "name": "Sack of King's Landing",
+        "place": [
+            "King's Landing",
+            " the Crownlands."
+        ],
+        "slug": "Sack_of_King%27s_Landing",
+        "updatedAt": "2019-04-10T07:15:27.801Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e602e",
+        "casualties": [
+            "~1,000 dead or wounded",
+            "~2,800 deadKing Argilac"
+        ],
+        "commandersOne": [
+            "Lord Hand  Orys Baratheon",
+            "Queen Rhaenys",
+            "Targaryen"
+        ],
+        "commandersTwo": [
+            "King Argilac",
+            "Durrandon &",
+            "Queen Argella",
+            "Durrandon "
+        ],
+        "conflict": "War of Conquest",
+        "createdAt": "2019-04-10T07:15:27.801Z",
+        "factionsOne": [
+            "House Targaryen"
+        ],
+        "factionsTwo": [
+            "The Stormlands"
+        ],
+        "forcesOne": [
+            "2,500 spearmen500 Rivermen cavalry 1 dragon"
+        ],
+        "forcesTwo": [
+            "1,500 cavalry4,500 infantry/archers"
+        ],
+        "name": "Last Storm",
+        "place": [
+            "Storm's End",
+            " the Stormlands"
+        ],
+        "slug": "Last_Storm",
+        "updatedAt": "2019-04-10T07:15:27.801Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e602f",
+        "casualties": [
+            "199 Northmen and Rivermen prisoners massacred",
+            "Ser Jaremy",
+            "Mallister",
+            "None"
+        ],
+        "commandersOne": [
+            "King Robb Stark",
+            "Lord Roose Bolton",
+            "Lord Rickard Karstark"
+        ],
+        "commandersTwo": [
+            "Ser Gregor Clegane"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.801Z",
+        "factionsOne": [
+            "House Stark",
+            "House Bolton",
+            "House Karstark"
+        ],
+        "factionsTwo": [
+            "House Lannister",
+            "House Clegane"
+        ],
+        "forcesOne": [
+            "~18,000 Northern horsemen and infantry."
+        ],
+        "forcesTwo": [
+            "Large Lannister garrison"
+        ],
+        "name": "Liberation of Harrenhal",
+        "place": [
+            "Harrenhal",
+            " the Riverlands"
+        ],
+        "slug": "Liberation_of_Harrenhal",
+        "updatedAt": "2019-04-10T07:15:27.801Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6030",
+        "casualties": [
+            "Massive casualtiesAll but about 5,000 wildlings killedKarsiLoboda~10 Night's Watch rangers",
+            "Minimal casualtiesHundreds of wights - any wight losses offset by tens of thousands of new wights created from the wildlings killed in the massacreWhite Walker",
+            "Lieutenant"
+        ],
+        "commandersOne": [
+            "Lord Commander Jon Snow",
+            "Chieftain Tormund",
+            "Chieftess Karsi &",
+            "Loboda &",
+            "Chieftain Dim Dalba",
+            "King Stannis Baratheon "
+        ],
+        "commandersTwo": [
+            "The Night King",
+            "White Walker",
+            "lieutenant &"
+        ],
+        "conflict": "Conflict Beyond the Wall",
+        "createdAt": "2019-04-10T07:15:27.802Z",
+        "factionsOne": [
+            "The Living",
+            "Free Folk",
+            "Night's Watch",
+            "House Baratheon of Dragonstone"
+        ],
+        "factionsTwo": [
+            "The Dead",
+            "White Walkers",
+            "Army of the Dead"
+        ],
+        "forcesOne": [
+            "The Night's WatchEddison TollettTodderDuncan Liddle~20 Night's Watch rangersFree Folk~50,000-100,000 wildlingsWun Weg Wun Dar WunRoyal Fleet"
+        ],
+        "forcesTwo": [
+            "About 4 White",
+            "Walkers",
+            "Wight army"
+        ],
+        "name": "Massacre at Hardhome",
+        "place": [
+            "Hardhome",
+            " beyond the Wall"
+        ],
+        "slug": "Massacre_at_Hardhome",
+        "updatedAt": "2019-04-10T07:15:27.802Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6031",
+        "casualties": [
+            "Minimal",
+            "Oznak zo PahlSeveral Great",
+            "Masters killed by",
+            "uprising slaves163 Great Masters crucified"
+        ],
+        "commandersOne": [
+            "Queen Daenerys",
+            "Targaryen",
+            "Ser Jorah Mormont",
+            "Ser Barristan Selmy",
+            "Commander Grey Worm",
+            "Captain Daario",
+            "Naharis"
+        ],
+        "commandersTwo": [
+            "Great Masters",
+            "Oznak zo Pahl &"
+        ],
+        "conflict": "Liberation of Slaver's Bay",
+        "createdAt": "2019-04-10T07:15:27.802Z",
+        "factionsOne": [
+            "House TargaryenUnsulliedDaenerys's Khalasar",
+            "Second Sons"
+        ],
+        "factionsTwo": [
+            "Meereen"
+        ],
+        "forcesOne": [
+            "Over 8,000",
+            "UnsulliedUnder 100 Dothraki2,000 Second SonsAstapori and",
+            "Yunkish freedmenTens of thousands of Meereenese slavesIndependent",
+            "MercenariesAsher ForresterMalcolm BranfieldBeskha"
+        ],
+        "forcesTwo": [
+            "Meereen City",
+            "Guard"
+        ],
+        "name": "Siege of Meereen",
+        "place": [
+            "Meereen",
+            " Slaver's Bay"
+        ],
+        "slug": "Siege_of_Meereen",
+        "updatedAt": "2019-04-10T07:15:27.802Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6032",
+        "casualties": [
+            "~45 men",
+            "60 menBeric Dondarrion",
+            "killed; later",
+            "resurrected"
+        ],
+        "commandersOne": [
+            "Lord Tywin Lannister",
+            "Ser Gregor Clegane"
+        ],
+        "commandersTwo": [
+            "Lord Eddard Stark, Hand of the King",
+            "Lord Beric",
+            "Dondarrion &"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.802Z",
+        "factionsOne": [
+            "House Lannister",
+            "House Clegane"
+        ],
+        "factionsTwo": [
+            "Iron Throne",
+            "detachment sent on orders of Lord Eddard Stark as Hand of the King to arrest and",
+            "execute Ser Gregor Clegane for the crimes committed against the Riverlands smallfolk"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Detachment of",
+            "approximately 100 men-at-arms mostly made up of House Stark and House Baratheon",
+            "guardsmen, but also including Thoros of Myr and Anguy"
+        ],
+        "name": "Battle at the Mummer's Ford",
+        "place": [
+            "Mummer's Ford",
+            " the Trident"
+        ],
+        "slug": "Battle_at_the_Mummer%27s_Ford",
+        "updatedAt": "2019-04-10T07:15:27.802Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6033",
+        "casualties": [
+            "Craster",
+            "Lord Commander Mormont",
+            "Many loyalist black brothers",
+            "Unknown, heavy"
+        ],
+        "commandersOne": [
+            "Lord Commander Jeor Mormont &",
+            "Craster &"
+        ],
+        "commandersTwo": [
+            "Karl Tanner"
+        ],
+        "conflict": "Conflict Beyond the Wall",
+        "createdAt": "2019-04-10T07:15:27.803Z",
+        "factionsOne": [
+            "Night's Watch",
+            "Craster"
+        ],
+        "factionsTwo": [
+            "Mutineers"
+        ],
+        "forcesOne": [
+            "Grenn",
+            "Eddison Tollett",
+            "Samwell Tarly",
+            "Other black brothers"
+        ],
+        "forcesTwo": [
+            "Over a dozen",
+            "mutinous black",
+            "brothersRast"
+        ],
+        "name": "Mutiny at Craster's Keep",
+        "place": [
+            "Craster's Keep",
+            " the HauntedForest",
+            " Beyond the Wall"
+        ],
+        "slug": "Mutiny_at_Craster%27s_Keep",
+        "updatedAt": "2019-04-10T07:15:27.803Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6034",
+        "casualties": [
+            "None",
+            "None"
+        ],
+        "commandersOne": [
+            "King Aegon I",
+            "Targaryen",
+            "Queen Visenya",
+            "Targaryen",
+            "Queen Rhaenys",
+            "Targaryen"
+        ],
+        "commandersTwo": [
+            "Princess Meria Martell"
+        ],
+        "conflict": "First Dornish War",
+        "createdAt": "2019-04-10T07:15:27.803Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Iron Throne"
+        ],
+        "factionsTwo": [
+            "Dorne"
+        ],
+        "forcesOne": [
+            "Targaryen army",
+            "3 dragonsBalerionVhagarMeraxes"
+        ],
+        "forcesTwo": [
+            "Dornish army"
+        ],
+        "name": "Occupation of Sunspear",
+        "place": [
+            "Sunspear"
+        ],
+        "slug": "Occupation_of_Sunspear",
+        "updatedAt": "2019-04-10T07:15:27.803Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6035",
+        "casualties": [
+            "Unknown",
+            "Unknown"
+        ],
+        "commandersOne": [
+            "Lord Commander",
+            "Barristan Selmy"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Greyjoy Rebellion",
+        "createdAt": "2019-04-10T07:15:27.803Z",
+        "factionsOne": [
+            "Iron Throne",
+            " "
+        ],
+        "factionsTwo": [
+            "Salt Throne"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Siege of Old Wyk",
+        "place": [
+            "Old Wyk",
+            " the the Iron Islands"
+        ],
+        "slug": "Siege_of_Old_Wyk",
+        "updatedAt": "2019-04-10T07:15:27.803Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6036",
+        "casualties": [
+            "~400 dead, wounded or imprisoned.",
+            "At least 2,000 deadMany captured"
+        ],
+        "commandersOne": [
+            "King Robb Stark",
+            "Lord Roose Bolton",
+            "Lord Rickard Karstark"
+        ],
+        "commandersTwo": [
+            "Ser Stafford",
+            "Lannister &"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.804Z",
+        "factionsOne": [
+            "House Stark",
+            "House Bolton",
+            "House Karstark"
+        ],
+        "factionsTwo": [
+            "House Lannister"
+        ],
+        "forcesOne": [
+            "20,000, including one Direwolf "
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Battle of Oxcross",
+        "place": [
+            "Oxcross",
+            " the Westerlands"
+        ],
+        "slug": "Battle_of_Oxcross",
+        "updatedAt": "2019-04-10T07:15:27.804Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6037",
+        "casualties": [
+            "12,000",
+            "2,400 Unsullied,",
+            "significant in the rest of the army. Both",
+            "mercenary companies fled."
+        ],
+        "commandersOne": [
+            "Khal Temmo &"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Century of Blood",
+        "createdAt": "2019-04-10T07:15:27.804Z",
+        "factionsOne": [
+            "Dothraki"
+        ],
+        "factionsTwo": [
+            "Free City of Qohor"
+        ],
+        "forcesOne": [
+            "20,000"
+        ],
+        "forcesTwo": [
+            "Unknown number of Qohorik city guard and heavy cavalrySecond SonsOne other",
+            "mercenary company3,000 Unsullied"
+        ],
+        "name": "Battle of Qohor",
+        "place": [
+            "Qohor",
+            " the Free Cities"
+        ],
+        "slug": "Battle_of_Qohor",
+        "updatedAt": "2019-04-10T07:15:27.804Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6038",
+        "casualties": [
+            "Light",
+            "Lannister Fleet burned at anchor"
+        ],
+        "commandersOne": [
+            "Prince Euron Greyjoy",
+            "Prince Aeron Greyjoy"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Greyjoy Rebellion",
+        "createdAt": "2019-04-10T07:15:27.805Z",
+        "factionsOne": [
+            "House Greyjoy"
+        ],
+        "factionsTwo": [
+            "House Lannister"
+        ],
+        "forcesOne": [
+            "Iron Fleet"
+        ],
+        "forcesTwo": [
+            "Lannister Fleet"
+        ],
+        "name": "Raid on Lannisport",
+        "place": [
+            "Lannisport",
+            " the Westerlands"
+        ],
+        "slug": "Raid_on_Lannisport",
+        "updatedAt": "2019-04-10T07:15:27.805Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6039",
+        "casualties": [
+            "Unknown",
+            "The crews of a dozen Greyjoy longships"
+        ],
+        "commandersOne": [
+            "Ser Royland Degore"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Greyjoy Rebellion",
+        "createdAt": "2019-04-10T07:15:27.805Z",
+        "factionsOne": [
+            "House Forrester"
+        ],
+        "factionsTwo": [
+            "Salt Throne"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Raid on Sea Dragon Point",
+        "place": [
+            "Sea Dragon Point",
+            " The North"
+        ],
+        "slug": "Raid_on_Sea_Dragon_Point",
+        "updatedAt": "2019-04-10T07:15:27.805Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e603a",
+        "casualties": [
+            "~70 Killed",
+            "Entire garrison killed, wounded, or captured"
+        ],
+        "commandersOne": [
+            "Lord Greatjon Umber"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.805Z",
+        "factionsOne": [
+            "House Stark",
+            "House Umber",
+            "House Blackwood"
+        ],
+        "factionsTwo": [
+            "House Lannister"
+        ],
+        "forcesOne": [
+            "1500 Blackwood Men400 Umber Axemen"
+        ],
+        "forcesTwo": [
+            "400 Lannister Garrison"
+        ],
+        "name": "Liberation of Raventree Hall",
+        "place": [
+            "Raventree Hall",
+            " the Riverlands"
+        ],
+        "slug": "Liberation_of_Raventree_Hall",
+        "updatedAt": "2019-04-10T07:15:27.805Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e603b",
+        "casualties": [
+            "4 Northmen killed",
+            "Lord Howland Reed wounded",
+            "Both"
+        ],
+        "commandersOne": [
+            "Lord Eddard Stark",
+            "Lord Howland Reed "
+        ],
+        "commandersTwo": [
+            "Lord Commander Gerold Hightower &"
+        ],
+        "conflict": "Robert's Rebellion (\"Abduction\" of Lyanna Stark)",
+        "createdAt": "2019-04-10T07:15:27.805Z",
+        "factionsOne": [
+            "House Stark",
+            "House Reed",
+            "House Glover",
+            "House CasselHouse DustinHouse Ryswell"
+        ],
+        "factionsTwo": [
+            "Kingsguard"
+        ],
+        "forcesOne": [
+            "6 NorthmenLord Eddard StarkLord Howland Reed "
+        ],
+        "forcesTwo": [
+            "2 Kingsguard &Lord Commander",
+            "Gerold Hightower &Ser Arthur Dayne &"
+        ],
+        "name": "Showdown at the Tower of Joy",
+        "place": [
+            "Tower of Joy",
+            " Red Mountains",
+            " Dorne"
+        ],
+        "slug": "Showdown_at_the_Tower_of_Joy",
+        "updatedAt": "2019-04-10T07:15:27.805Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e603c",
+        "casualties": [
+            "Nigh-complete",
+            "annihilation, few",
+            "survivors captured",
+            "King Robb Stark &Queen Talisa",
+            "Stark &Unborn child of Robb and Talisa &Lady Catelyn",
+            "Stark &Grey Wind &Ser Wendel",
+            "Manderly &Lord Gregor",
+            "Forrester &Lord Edmure Tully Most, if not all men in the camps",
+            "Light",
+            "Lady Joyeuse",
+            "Erenford &Various soldiers"
+        ],
+        "commandersOne": [
+            "~ King Robb Stark & ~ Ser Brynden Tully"
+        ],
+        "commandersTwo": [
+            "~ Lord Tywin Lannister",
+            "~ Lord Roose Bolton",
+            "~ Lord Walder Frey"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.806Z",
+        "factionsOne": [
+            "House Stark",
+            "Houses of the North ",
+            "House Forrester",
+            "House Manderly",
+            "House TullyHouses of the Riverlands"
+        ],
+        "factionsTwo": [
+            "House Frey",
+            "House Bolton",
+            "House Whitehill"
+        ],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Red Wedding",
+        "place": [
+            "The Twins",
+            " the Riverlands"
+        ],
+        "slug": "Red_Wedding",
+        "updatedAt": "2019-04-10T07:15:27.806Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e603d",
+        "casualties": [
+            "None",
+            "None"
+        ],
+        "commandersOne": [
+            "Prince Aemond",
+            "Targaryen",
+            "Ser Criston Cole"
+        ],
+        "commandersTwo": [
+            "Prince Daemon",
+            "Targaryen"
+        ],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.806Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Greens"
+        ],
+        "factionsTwo": [
+            "Blacks"
+        ],
+        "forcesOne": [
+            "Green Army",
+            "One dragon"
+        ],
+        "forcesTwo": [
+            "One dragon"
+        ],
+        "name": "Retaking of Harrenhal",
+        "place": [
+            "Harrenhal"
+        ],
+        "slug": "Retaking_of_Harrenhal",
+        "updatedAt": "2019-04-10T07:15:27.806Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e603e",
+        "casualties": [
+            "Unknown",
+            "Unknown"
+        ],
+        "commandersOne": [
+            "Ser Jaime Lannister"
+        ],
+        "commandersTwo": [
+            "Ser Edmure Tully"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.806Z",
+        "factionsOne": [
+            "House Lannister",
+            "Unnamed Lannister Bannermen"
+        ],
+        "factionsTwo": [
+            "House Tully",
+            "Unnamed Tully",
+            "Bannermen"
+        ],
+        "forcesOne": [
+            "30,000 Lannister",
+            "soldiers"
+        ],
+        "forcesTwo": [
+            "Riverrun Garrison"
+        ],
+        "name": "Siege of Riverrun",
+        "place": [
+            "Riverrun"
+        ],
+        "slug": "Siege_of_Riverrun",
+        "updatedAt": "2019-04-10T07:15:27.806Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e603f",
+        "casualties": [
+            "Light",
+            "Nearly absoluteOlenna Tyrell"
+        ],
+        "commandersOne": [
+            "Ser Jaime Lannister",
+            "Ser Bronn",
+            "Lord Randyll Tarly",
+            "Dickon Tarly"
+        ],
+        "commandersTwo": [
+            "Lady Olenna Tyrell &"
+        ],
+        "conflict": "Daenerys Targaryen's invasion of Westeros",
+        "createdAt": "2019-04-10T07:15:27.807Z",
+        "factionsOne": [
+            "Iron Throne",
+            "House Tarly"
+        ],
+        "factionsTwo": [
+            "House Tyrell &"
+        ],
+        "forcesOne": [
+            "~10,000 Lannister",
+            "infantry",
+            "Tarly Army"
+        ],
+        "forcesTwo": [
+            "Highgarden Garrison"
+        ],
+        "name": "Sack of Highgarden",
+        "place": [
+            "Highgarden"
+        ],
+        "slug": "Sack_of_Highgarden",
+        "updatedAt": "2019-04-10T07:15:27.807Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6040",
+        "casualties": [
+            "Massive",
+            "Low"
+        ],
+        "commandersOne": [
+            "Johanna Lannister"
+        ],
+        "commandersTwo": [
+            "Lord Dalton Greyjoy"
+        ],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.807Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Greens",
+            "House Lannister"
+        ],
+        "factionsTwo": [
+            "Blacks",
+            "House Greyjoy"
+        ],
+        "forcesOne": [
+            "Lannister Fleet &"
+        ],
+        "forcesTwo": [
+            "Iron Fleet"
+        ],
+        "name": "Sack of Lannisport",
+        "place": [
+            "Lannisport"
+        ],
+        "slug": "Sack_of_Lannisport",
+        "updatedAt": "2019-04-10T07:15:27.807Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6041",
+        "casualties": [
+            "Massive",
+            "Negligible"
+        ],
+        "commandersOne": [
+            "None"
+        ],
+        "commandersTwo": [
+            "Chieftain Tormund",
+            "Magnar Styr of Thenn"
+        ],
+        "conflict": "Conflict Beyond the Wall",
+        "createdAt": "2019-04-10T07:15:27.807Z",
+        "factionsOne": [
+            "Night's Watch"
+        ],
+        "factionsTwo": [
+            "Free Folk"
+        ],
+        "forcesOne": [
+            "Black brothersKegs &Mully &Black Jack Bulwer &"
+        ],
+        "forcesTwo": [
+            "Tormund's warbandYgritteStyr's warbandThenn Warg"
+        ],
+        "name": "Sack of Mole's Town",
+        "place": [
+            "Mole's Town",
+            " the Gift"
+        ],
+        "slug": "Sack_of_Mole%27s_Town",
+        "updatedAt": "2019-04-10T07:15:27.807Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6042",
+        "casualties": [
+            "Negilgible",
+            "Massive"
+        ],
+        "commandersOne": [
+            "Aegor Rivers"
+        ],
+        "commandersTwo": [
+            "None"
+        ],
+        "conflict": "",
+        "createdAt": "2019-04-10T07:15:27.808Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Golden Company"
+        ],
+        "factionsTwo": [
+            "Qohorik"
+        ],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Sack of Qohor",
+        "place": [
+            "Qohor",
+            " The Free Cities"
+        ],
+        "slug": "Sack_of_Qohor",
+        "updatedAt": "2019-04-10T07:15:27.808Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6043",
+        "casualties": [
+            "Moderate to low",
+            "Heavy"
+        ],
+        "commandersOne": [
+            "Prince Aemond",
+            "Targaryen"
+        ],
+        "commandersTwo": [
+            "Queen Rhaenyra",
+            "Targaryen"
+        ],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.808Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Greens",
+            "House Hightower",
+            "Dragonseeds"
+        ],
+        "factionsTwo": [
+            "Blacks",
+            "House Dustin",
+            "Dragonseeds"
+        ],
+        "forcesOne": [
+            "Hightower army",
+            "Hugh Hammer",
+            "Ulf the White"
+        ],
+        "forcesTwo": [
+            "Tumbleton garrison",
+            "Hugh Hammer",
+            "Ulf the White"
+        ],
+        "name": "Sack of Tumbleton",
+        "place": [
+            "Tumbleton"
+        ],
+        "slug": "Sack_of_Tumbleton",
+        "updatedAt": "2019-04-10T07:15:27.808Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6044",
+        "casualties": [
+            "Massive Stark",
+            "casualtiesPrince Rickon",
+            "StarkWun Weg Wun Dar Wun+1,500 killed/wounded",
+            "Minimal Vale",
+            "casualties",
+            "Total annihilation of the Northern army",
+            "under House Bolton; few survivors capturedLord Ramsay",
+            "BoltonLord Smalljon",
+            "Umber"
+        ],
+        "commandersOne": [
+            "Jon Snow",
+            "Chieftain Tormund Giantsbane",
+            "Lady Lyanna",
+            "Mormont",
+            "Ser Davos Seaworth",
+            "Lord Petyr Baelish",
+            "Lady Sansa Stark",
+            "Lord Yohn Royce"
+        ],
+        "commandersTwo": [
+            "Lord Ramsay",
+            "Bolton",
+            "Lord Harald Karstark",
+            "Lord Smalljon",
+            "Umber &",
+            "Bolton General",
+            "Bolton Captain"
+        ],
+        "conflict": "Battle of the Bastards",
+        "createdAt": "2019-04-10T07:15:27.808Z",
+        "factionsOne": [
+            "House Stark",
+            "House Mormont",
+            "House Hornwood",
+            "House Mazin",
+            "Free Folk",
+            "House Arryn"
+        ],
+        "factionsTwo": [
+            "House Bolton",
+            "House Karstark",
+            "House Umber"
+        ],
+        "forcesOne": [
+            "Around 2,400 men",
+            "2,000 Free Folk",
+            "warriors",
+            "200 Hornwood",
+            "soldiers",
+            "143 Mazin soldiers",
+            "62 Mormont soldiers",
+            "Wun Weg Wun Dar Wun",
+            "Unknown number of mounted Knights of the Vale"
+        ],
+        "forcesTwo": [
+            "Around 6,000 men",
+            "Contributions by each house unknown. Though the majority of the force is likely made up of Bolton forces."
+        ],
+        "name": "User blog:Salociin/Battle of the Bastards (Independent)",
+        "place": [
+            "Winterfell",
+            " the North"
+        ],
+        "slug": "User_blog:Salociin/Battle_of_the_Bastards_(Independent)",
+        "updatedAt": "2019-04-10T07:15:27.808Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6045",
+        "casualties": [
+            "HeavyRodrik Greyjoy",
+            "Unknown, presumably light"
+        ],
+        "commandersOne": [
+            "Prince Rodrik",
+            "Greyjoy &"
+        ],
+        "commandersTwo": [
+            "Lord Jason",
+            "Mallister"
+        ],
+        "conflict": "Greyjoy Rebellion",
+        "createdAt": "2019-04-10T07:15:27.808Z",
+        "factionsOne": [
+            "Salt Throne"
+        ],
+        "factionsTwo": [
+            "House Mallister"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Battle of Seagard",
+        "place": [
+            "Seagard",
+            " the Riverlands"
+        ],
+        "slug": "Battle_of_Seagard",
+        "updatedAt": "2019-04-10T07:15:27.808Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6046",
+        "casualties": [
+            "Complete",
+            "Unknown"
+        ],
+        "commandersOne": [
+            "Unknown"
+        ],
+        "commandersTwo": [
+            "Lord Robett Glover"
+        ],
+        "conflict": "Ironborn Invasion of the NorthWar of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.809Z",
+        "factionsOne": [
+            "House Greyjoy"
+        ],
+        "factionsTwo": [
+            "House Bolton",
+            "House Glover"
+        ],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Second Battle of Deepwood Motte",
+        "place": [
+            "Deepwood Motte",
+            " the North"
+        ],
+        "slug": "Second_Battle_of_Deepwood_Motte",
+        "updatedAt": "2019-04-10T07:15:27.809Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6047",
+        "casualties": [
+            "Moderate",
+            "At least one ship",
+            "destroyed",
+            "Fleet captured",
+            "Many Sons of the HarpyBelicho Paenymion Razdal mo Eraz"
+        ],
+        "commandersOne": [
+            "Queen Daenerys I",
+            "Targaryen",
+            "Lord Tyrion",
+            "Lannister",
+            "Commander Grey Worm",
+            "Captain Daario",
+            "Naharis"
+        ],
+        "commandersTwo": [
+            "Razdal mo",
+            "Eraz",
+            "Yezzan zo",
+            "Qaggaz",
+            "Belicho",
+            "Paenymion"
+        ],
+        "conflict": "Liberation of Slaver's Bay",
+        "createdAt": "2019-04-10T07:15:27.809Z",
+        "factionsOne": [
+            "House TargaryenUnsulliedDothraki",
+            "Second Sons"
+        ],
+        "factionsTwo": [
+            "Slaver AllianceAstaporYunkaiVolantis",
+            "Sons of the Harpy"
+        ],
+        "forcesOne": [
+            "Around 110,000 men",
+            "100,000 Dothraki",
+            "8,000 Unsullied",
+            "2,000 Second Sons",
+            "3 dragons"
+        ],
+        "forcesTwo": [
+            "Around 200 ships",
+            "Ghiscari siege",
+            "engineers and",
+            "soldiersTrebuchetsSons of the Harpy"
+        ],
+        "name": "Second Siege of Meereen",
+        "place": [
+            "Meereen",
+            " Slaver's Bay"
+        ],
+        "slug": "Second_Siege_of_Meereen",
+        "updatedAt": "2019-04-10T07:15:27.809Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6048",
+        "casualties": [
+            "Garrison surrendered;",
+            "Brynden Tully killed while resisting arrest",
+            "None"
+        ],
+        "commandersOne": [
+            "Ser Brynden Tully &"
+        ],
+        "commandersTwo": [
+            "Ser Jaime Lannister",
+            "Ser Bronn of the Blackwater",
+            "Lothar Frey",
+            "Walder Rivers"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.809Z",
+        "factionsOne": [
+            "House Tully"
+        ],
+        "factionsTwo": [
+            "Iron Throne",
+            "House Lannister",
+            "House Frey"
+        ],
+        "forcesOne": [
+            "Around 400 men"
+        ],
+        "forcesTwo": [
+            "Around 12,000 men4,000 soldiers of House Frey8,000 soldiers of House Lannister"
+        ],
+        "name": "Second Siege of Riverrun",
+        "place": [
+            "Riverrun",
+            " the Riverlands"
+        ],
+        "slug": "Second_Siege_of_Riverrun",
+        "updatedAt": "2019-04-10T07:15:27.809Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6049",
+        "casualties": [
+            "All Lannister Soldiers",
+            "All ships",
+            "~150 Unsullied at most"
+        ],
+        "commandersOne": [
+            "Ser Jaime Lannister",
+            "King Euron Greyjoy"
+        ],
+        "commandersTwo": [
+            "Lord Hand Tyrion Lannister",
+            "Commander Grey Worm"
+        ],
+        "conflict": "Daenerys Targaryen's invasion of Westeros",
+        "createdAt": "2019-04-10T07:15:27.810Z",
+        "factionsOne": [
+            "Iron Throne",
+            "House Greyjoy"
+        ],
+        "factionsTwo": [
+            "House Targaryen",
+            "Unsullied"
+        ],
+        "forcesOne": [
+            "Casterly Rock garrison ",
+            "Iron Fleet :Silence"
+        ],
+        "forcesTwo": [
+            "8,000+ Unsullied heavy infantry",
+            "80 ships from the",
+            "Small amount of the Targaryen fleet"
+        ],
+        "name": "Siege of Casterly Rock",
+        "place": [
+            "Casterly Rock"
+        ],
+        "slug": "Siege_of_Casterly_Rock",
+        "updatedAt": "2019-04-10T07:15:27.810Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e604a",
+        "casualties": [
+            "Light - Moderate",
+            "Maron Greyjoy",
+            "A large percentage of the Greyjoy Forces"
+        ],
+        "commandersOne": [
+            "King Robert I Baratheon",
+            "Lord Stannis Baratheon",
+            "Lord Eddard Stark",
+            "Lord Tywin Lannister",
+            "Ser Jaime Lannister",
+            "Ser Jorah Mormont"
+        ],
+        "commandersTwo": [
+            "King Balon Greyjoy",
+            "Captain Euron Greyjoy",
+            "Prince Maron Greyjoy &"
+        ],
+        "conflict": "Greyjoy Rebellion",
+        "createdAt": "2019-04-10T07:15:27.810Z",
+        "factionsOne": [
+            "Iron Throne",
+            "House Stark",
+            "House Lannister"
+        ],
+        "factionsTwo": [
+            "Salt Throne"
+        ],
+        "forcesOne": [
+            "Thousands ten times larger than the Greyjoy army"
+        ],
+        "forcesTwo": [
+            "Thousands"
+        ],
+        "name": "Siege of Pyke",
+        "place": [
+            "Pyke",
+            " Iron Islands"
+        ],
+        "slug": "Siege_of_Pyke",
+        "updatedAt": "2019-04-10T07:15:27.810Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e604b",
+        "casualties": [
+            "Most of the Greens ArmyAegon II Targaryen and Sunfyre wounded",
+            "Rhaenys TargaryenMeleys"
+        ],
+        "commandersOne": [
+            "King Aegon II",
+            "Targaryen ",
+            "Prince Aemond",
+            "Targaryen",
+            "Ser Criston Cole"
+        ],
+        "commandersTwo": [
+            "Queen Rhaenyra",
+            "Targaryen",
+            "Princess Rhaenys",
+            "Targaryen &"
+        ],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.810Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Greens",
+            "Kingsguard"
+        ],
+        "factionsTwo": [
+            "Blacks"
+        ],
+        "forcesOne": [
+            "Greens Army",
+            "Kingsguard",
+            "Aegon II Targaryen",
+            "Sunfyre",
+            "Aemond Targaryen",
+            "Vhagar"
+        ],
+        "forcesTwo": [
+            "Rhaenys Targaryen &",
+            "Meleys &"
+        ],
+        "name": "Siege of Rook's Rest",
+        "place": [
+            "Rook's Rest",
+            " The Crownlands"
+        ],
+        "slug": "Siege_of_Rook%27s_Rest",
+        "updatedAt": "2019-04-10T07:15:27.810Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e604c",
+        "casualties": [
+            "None",
+            "None"
+        ],
+        "commandersOne": [
+            "Lord Mace Tyrell",
+            "Olenna Tyrell",
+            "Lord Commander Jaime Lannister"
+        ],
+        "commandersTwo": [
+            "The High Septon",
+            "King Tommen I Baratheon"
+        ],
+        "conflict": "Rise and Fall of the Sparrows",
+        "createdAt": "2019-04-10T07:15:27.811Z",
+        "factionsOne": [
+            "House Tyrell",
+            "House Lannister"
+        ],
+        "factionsTwo": [
+            "Faith Militant",
+            "Iron Throne",
+            "Kingsguard"
+        ],
+        "forcesOne": [
+            "Small company of House Tyrell"
+        ],
+        "forcesTwo": [
+            "Many dozens",
+            "of SparrowsBrother Lancel"
+        ],
+        "name": "Standoff at the Great Sept of Baelor",
+        "place": [
+            "Great Sept of Baelor",
+            "King's Landing"
+        ],
+        "slug": "Standoff_at_the_Great_Sept_of_Baelor",
+        "updatedAt": "2019-04-10T07:15:27.811Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e604d",
+        "casualties": [
+            "~50 Killed",
+            "Entire garrison killed, wounded, or captured"
+        ],
+        "commandersOne": [
+            "Lord Greatjon Umber"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.811Z",
+        "factionsOne": [
+            "House Stark",
+            "House Umber"
+        ],
+        "factionsTwo": [
+            "House Lannister"
+        ],
+        "forcesOne": [
+            "600 Brackens300 Umber Spearmen"
+        ],
+        "forcesTwo": [
+            "400 Lannister Garrison"
+        ],
+        "name": "Liberation of Stone Hedge",
+        "place": [
+            "Stone Hedge",
+            " the Riverlands"
+        ],
+        "slug": "Liberation_of_Stone_Hedge",
+        "updatedAt": "2019-04-10T07:15:27.811Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e604e",
+        "casualties": [
+            "208 men",
+            "400 DeadMartyn and Willem Lannister captured"
+        ],
+        "commandersOne": [
+            "Lord Edmure Tully",
+            "Lord Jason Mallister"
+        ],
+        "commandersTwo": [
+            "Ser Gregor Clegane"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.811Z",
+        "factionsOne": [
+            "House Tully",
+            "House Mallister"
+        ],
+        "factionsTwo": [
+            "House Lannister",
+            "House Clegane"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Battle of Stone Mill",
+        "place": [
+            "Stone Mill",
+            " the Riverlands"
+        ],
+        "slug": "Battle_of_Stone_Mill",
+        "updatedAt": "2019-04-10T07:15:27.811Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e604f",
+        "casualties": [
+            "Minimal",
+            "SignificantAll the animals at Storm's End"
+        ],
+        "commandersOne": [
+            "Lord Mace",
+            "Tyrell",
+            "Lord Paxter",
+            "Redwyne"
+        ],
+        "commandersTwo": [
+            "Ser Stannis Baratheon",
+            "Lord Eddard Stark"
+        ],
+        "conflict": "Robert's Rebellion",
+        "createdAt": "2019-04-10T07:15:27.812Z",
+        "factionsOne": [
+            "House Tyrell",
+            "Land siege",
+            "House Redwyne",
+            "Naval blockade"
+        ],
+        "factionsTwo": [
+            "House Baratheon",
+            "Garrison",
+            "House Stark",
+            "Relief Force"
+        ],
+        "forcesOne": [
+            "~40-50,000 soldiers",
+            "Most of House Tyrell's army",
+            "Redwyne Fleet"
+        ],
+        "forcesTwo": [
+            "500 soldiers",
+            "Storm's End Garrison",
+            "Smuggler Davos",
+            "Unknown Relief Force"
+        ],
+        "name": "Siege of Storm's End",
+        "place": [
+            "Storm's End",
+            " The Stormlands."
+        ],
+        "slug": "Siege_of_Storm%27s_End",
+        "updatedAt": "2019-04-10T07:15:27.812Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6050",
+        "casualties": [
+            "Heavy5 Dragons killedPrince Joffrey",
+            "Velaryon",
+            "HeavyMany thousands of rioters"
+        ],
+        "commandersOne": [
+            "Queen Rhaenyra",
+            "Targaryen",
+            "Prince Joffrey",
+            "Velaryon &"
+        ],
+        "commandersTwo": [
+            "The Shepherd"
+        ],
+        "conflict": "Dance of the Dragons",
+        "createdAt": "2019-04-10T07:15:27.812Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Blacks",
+            "City Watch"
+        ],
+        "factionsTwo": [
+            "Smallfolk of King's Landing"
+        ],
+        "forcesOne": [
+            "5 DragonsCity Watch guards"
+        ],
+        "forcesTwo": [
+            "Thousands of",
+            "SmallfolkHobb the Hewer"
+        ],
+        "name": "Storming of the Dragonpit",
+        "place": [
+            "Dragonpit",
+            " King's Landing"
+        ],
+        "slug": "Storming_of_the_Dragonpit",
+        "updatedAt": "2019-04-10T07:15:27.812Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6051",
+        "casualties": [
+            "Unknown",
+            "HeavyAt least one man of House Tarly"
+        ],
+        "commandersOne": [
+            "Lord Robert Baratheon"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "Robert's Rebellion",
+        "createdAt": "2019-04-10T07:15:27.812Z",
+        "factionsOne": [
+            "House Baratheon"
+        ],
+        "factionsTwo": [
+            "In quick succession",
+            "3 House Baratheon Bannermen",
+            "remaining loyal to the Iron Throne:House GrandisonHouse FellHouse Cafferen",
+            "Elements of House Tarly"
+        ],
+        "forcesOne": [
+            "Unknown"
+        ],
+        "forcesTwo": [
+            "Unknown"
+        ],
+        "name": "Battle of Summerhall",
+        "place": [
+            "Summerhall",
+            " The Stormlands"
+        ],
+        "slug": "Battle_of_Summerhall",
+        "updatedAt": "2019-04-10T07:15:27.812Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6052",
+        "casualties": [
+            "2 Killed",
+            "Ser Rodrik Cassel",
+            "captured"
+        ],
+        "commandersOne": [
+            "First Mate Dagmer"
+        ],
+        "commandersTwo": [
+            "Ser Rodrik Cassel "
+        ],
+        "conflict": "Ironborn Invasion of the NorthWar of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.812Z",
+        "factionsOne": [
+            "Salt Throne"
+        ],
+        "factionsTwo": [
+            "The North",
+            "House Tallhart"
+        ],
+        "forcesOne": [
+            "Crew of the Sea Bitch"
+        ],
+        "forcesTwo": [
+            "Torrhen's Square",
+            "garrison",
+            "200 men of Winterfell"
+        ],
+        "name": "Raid on Torrhen's Square",
+        "place": [
+            "Torrhen's Square",
+            " the North"
+        ],
+        "slug": "Raid_on_Torrhen%27s_Square",
+        "updatedAt": "2019-04-10T07:15:27.812Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6053",
+        "casualties": [
+            "ModerateLord Robert Baratheon wounded in actionLord Thorren",
+            "Forrester &",
+            "Entire army destroyedPrince Rhaegar",
+            "Targaryen &Ser Barristan Selmy, wounded",
+            "and capturedPrince Lewyn",
+            "Martell &Ser Jonothor",
+            "Darry &"
+        ],
+        "commandersOne": [
+            "Lord Robert Baratheon",
+            "Lord Eddard Stark",
+            "Lord Jon Arryn",
+            "Lord Hoster Tully",
+            "Lord Roose Bolton",
+            "Lord Thorren",
+            "Forrester &",
+            "Lord Walder Frey"
+        ],
+        "commandersTwo": [
+            "Prince Rhaegar",
+            "Targaryen &",
+            "Prince Lewyn",
+            "Martell &",
+            "Ser Barristan",
+            "Selmy",
+            "Ser Jonothor",
+            "Darry &"
+        ],
+        "conflict": "Robert's Rebellion",
+        "createdAt": "2019-04-10T07:15:27.813Z",
+        "factionsOne": [
+            "House Baratheon",
+            "House Stark",
+            "House Bolton",
+            "House Forrester",
+            "House Arryn",
+            "House Tully",
+            "House Frey",
+            "Arrived after the",
+            "battle was over"
+        ],
+        "factionsTwo": [
+            "Iron Throne",
+            "Kingsguard",
+            "Crownlands",
+            "Bannermen",
+            "House Martell"
+        ],
+        "forcesOne": [
+            "About",
+            "35,000 troops",
+            "but battle-hardened"
+        ],
+        "forcesTwo": [
+            "More than",
+            "40,000 troops",
+            "but inexperienced",
+            "including",
+            "10,000 Dornishmen"
+        ],
+        "name": "Battle of the Trident",
+        "place": [
+            "The ford on The Trident River"
+        ],
+        "slug": "Battle_of_the_Trident",
+        "updatedAt": "2019-04-10T07:15:27.813Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6054",
+        "casualties": [
+            "Numerous Unsullied",
+            "White Rat",
+            "Ser Barristan SelmyHizdahr zo Loraq",
+            "Numerous Sons of the Harpy"
+        ],
+        "commandersOne": [
+            "Queen Daenerys",
+            "Targaryen",
+            "Tyrion Lannister",
+            "Ser Jorah Mormont",
+            "Ser Barristan",
+            "Selmy &",
+            "Captain Daario",
+            "Naharis",
+            "Commander Grey Worm ",
+            "Hizdahr zo Loraq &"
+        ],
+        "commandersTwo": [
+            "The Harpy"
+        ],
+        "conflict": "Liberation of Slaver's Bay",
+        "createdAt": "2019-04-10T07:15:27.813Z",
+        "factionsOne": [
+            "House TargaryenUnsullied",
+            "Second Sons"
+        ],
+        "factionsTwo": [
+            "Sons of the Harpy"
+        ],
+        "forcesOne": [
+            "8,000 Unsullied",
+            "2,000 Second Sons",
+            "Drogon"
+        ],
+        "forcesTwo": [
+            "Sons of the Harpy"
+        ],
+        "name": "Uprising in Meereen",
+        "place": [
+            "Meereen",
+            " Slaver's Bay"
+        ],
+        "slug": "Uprising_in_Meereen",
+        "updatedAt": "2019-04-10T07:15:27.813Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6055",
+        "casualties": [
+            "Moderate to heavy",
+            "Low to Moderate"
+        ],
+        "commandersOne": [
+            "Lord Rosby"
+        ],
+        "commandersTwo": [
+            "Princess Meria Martell"
+        ],
+        "conflict": "First Dornish War",
+        "createdAt": "2019-04-10T07:15:27.813Z",
+        "dateOfBattle": null,
+        "factionsOne": [
+            "Iron Throne"
+        ],
+        "factionsTwo": [
+            "Dorne"
+        ],
+        "forcesOne": [
+            "Targaryen army"
+        ],
+        "forcesTwo": [
+            "Dornish army"
+        ],
+        "name": "Uprising in Sunspear",
+        "place": [
+            "Sunspear"
+        ],
+        "slug": "Uprising_in_Sunspear",
+        "updatedAt": "2019-04-10T07:15:27.813Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6056",
+        "casualties": [
+            "Unknown, likely light to moderateHarrion Karstark",
+            "Unknown, army broken and scatteredSer Jaime Lannister "
+        ],
+        "commandersOne": [
+            "Lord Robb Stark",
+            "Lord Rickard Karstark",
+            "Lord Jon Umber"
+        ],
+        "commandersTwo": [
+            "Ser Jaime Lannister "
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.814Z",
+        "factionsOne": [
+            "House Stark",
+            "House Karstark",
+            "House Umber",
+            "House Frey"
+        ],
+        "factionsTwo": [
+            "House Lannister"
+        ],
+        "forcesOne": [
+            "~21,600"
+        ],
+        "forcesTwo": [
+            "30,000 at Riverrun, unknown at the battle"
+        ],
+        "name": "Battle of the Whispering Wood",
+        "place": [
+            "Whispering Wood",
+            " near Riverrun in the Riverlands"
+        ],
+        "slug": "Battle_of_the_Whispering_Wood",
+        "updatedAt": "2019-04-10T07:15:27.814Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6057",
+        "casualties": [
+            "HeavyThoros1 ranger3 wildlings2 Stark soldiersViserion",
+            "Benjen Stark",
+            "Moderate1 White WalkerThousands of wights"
+        ],
+        "commandersOne": [
+            "King Jon Snow",
+            "Queen Daenerys I Targaryen"
+        ],
+        "commandersTwo": [
+            "Night King"
+        ],
+        "conflict": "Conflict Beyond the Wall / Daenerys Targaryen's invasion of Westeros / Great War",
+        "createdAt": "2019-04-10T07:15:27.814Z",
+        "factionsOne": [
+            "The Living",
+            "Kingdom of the North",
+            "Night's Watch",
+            "Free Folk",
+            "Brotherhood Without Banners",
+            "House Targaryen"
+        ],
+        "factionsTwo": [
+            "The Dead",
+            "White Walkers",
+            "Army of the Dead"
+        ],
+        "forcesOne": [
+            "Hunting party:King Jon SnowChieftain TormundSer Jorah MormontLord Beric",
+            "DondarrionGendryThoros &Sandor Clegane1 Night's Watch Ranger &3 Free Folk warriors &2 House Stark soldiers &Extraction forces:Queen Daenerys I Targaryen3 Dragons; Drogon, Rhaegal and Viserion &Benjen Stark &"
+        ],
+        "forcesTwo": [
+            "Army of the Dead:Several White",
+            "WalkersApproximately one hundred thousand wights"
+        ],
+        "name": "Wight Hunt",
+        "place": [
+            "Beyond the Wall",
+            " Westeros"
+        ],
+        "slug": "Wight_Hunt",
+        "updatedAt": "2019-04-10T07:15:27.814Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6058",
+        "casualties": [
+            "2 men",
+            "Light",
+            "Ser Rodrik Cassel",
+            "executed"
+        ],
+        "commandersOne": [
+            "Prince Theon Greyjoy",
+            "First Mate Dagmer"
+        ],
+        "commandersTwo": [
+            "Prince Bran Stark",
+            "Ser Rodrik Cassel"
+        ],
+        "conflict": "Ironborn Invasion of the NorthWar of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.814Z",
+        "factionsOne": [
+            "Salt Throne"
+        ],
+        "factionsTwo": [
+            "The North"
+        ],
+        "forcesOne": [
+            "Crew of the Sea BitchLorren"
+        ],
+        "forcesTwo": [
+            "A skeleton defense force"
+        ],
+        "name": "Fall of Winterfell",
+        "place": [
+            "Winterfell",
+            " the North"
+        ],
+        "slug": "Fall_of_Winterfell",
+        "updatedAt": "2019-04-10T07:15:27.814Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e6059",
+        "casualties": [
+            "MinimalMyranda &Gordy &Simpson &",
+            "CompleteKing Stannis Baratheon &"
+        ],
+        "commandersOne": [
+            "Lord Roose Bolton",
+            "Ramsay Bolton"
+        ],
+        "commandersTwo": [
+            "King Stannis Baratheon &"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.815Z",
+        "factionsOne": [
+            "House Bolton"
+        ],
+        "factionsTwo": [
+            "House Baratheon of Dragonstone &"
+        ],
+        "forcesOne": [
+            "5,000",
+            "Winterfell Garrison",
+            "Over 2,000 Bolton cavalryBrienne of Tarth "
+        ],
+        "forcesTwo": [
+            "1,300 infantry"
+        ],
+        "name": "Battle of Winterfell",
+        "place": [
+            "Winterfell"
+        ],
+        "slug": "Battle_of_Winterfell",
+        "updatedAt": "2019-04-10T07:15:27.815Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e605a",
+        "casualties": [
+            "19 Ironborn flayed aliveDagmer Lorren Gelmarr Stygg Aggar UrzenWex Theon Greyjoy",
+            "captured by Ramsay Snow",
+            "None"
+        ],
+        "commandersOne": [
+            "Prince Theon Greyjoy ",
+            "First Mate Dagmer"
+        ],
+        "commandersTwo": [
+            "Castellan Ramsay Snow"
+        ],
+        "conflict": "Ironborn Invasion of the NorthWar of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.826Z",
+        "factionsOne": [
+            "House Greyjoy"
+        ],
+        "factionsTwo": [
+            "House Bolton"
+        ],
+        "forcesOne": [],
+        "forcesTwo": [],
+        "name": "Sack of Winterfell",
+        "place": [
+            "Winterfell",
+            " the North"
+        ],
+        "slug": "Sack_of_Winterfell",
+        "updatedAt": "2019-04-10T07:15:27.826Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e605b",
+        "casualties": [
+            "~120 Killed",
+            "400 KilledMany Captured"
+        ],
+        "commandersOne": [
+            "King Robb Stark",
+            "Lord Roose Bolton",
+            "Lord Rickard Karstark"
+        ],
+        "commandersTwo": [
+            "Unknown"
+        ],
+        "conflict": "War of the Five Kings",
+        "createdAt": "2019-04-10T07:15:27.827Z",
+        "factionsOne": [
+            "House Stark",
+            "House Bolton",
+            "House Karstark"
+        ],
+        "factionsTwo": [
+            "House Lannister",
+            "House Westerling"
+        ],
+        "forcesOne": [
+            "~20,000 northermen"
+        ],
+        "forcesTwo": [
+            "600"
+        ],
+        "name": "Battle of the Yellow Fork",
+        "place": [
+            "Yellow Fork",
+            " the Westerlands"
+        ],
+        "slug": "Battle_of_the_Yellow_Fork",
+        "updatedAt": "2019-04-10T07:15:27.827Z"
+    },
+    {
+        "__v": 0,
+        "_id": "5cad980fb0c0ef00108e605c",
+        "casualties": [
+            "Minimal, if any",
+            "Heavy"
+        ],
+        "commandersOne": [
+            "Queen Daenerys",
+            "Targaryen",
+            "Ser Barristan Selmy",
+            "Ser Jorah Mormont",
+            "Commander Grey Worm",
+            "Captain Daario",
+            "Naharis"
+        ],
+        "commandersTwo": [
+            "Wise Masters",
+            "Razdal mo Eraz",
+            "Captain Mero &",
+            "Captain Prendahl",
+            "na Ghezn &",
+            "Lieutenant Daario",
+            "Naharis"
+        ],
+        "conflict": "Liberation of Slaver's Bay",
+        "createdAt": "2019-04-10T07:15:27.827Z",
+        "factionsOne": [
+            "House Targaryen",
+            "Unsullied",
+            "Daenerys's Khalasar",
+            "Second Sons"
+        ],
+        "factionsTwo": [
+            "Yunkai",
+            "Second Sons"
+        ],
+        "forcesOne": [
+            "Over 8,000",
+            "UnsulliedUnder 100 Dothraki2,000 Second Sons"
+        ],
+        "forcesTwo": [
+            "Yunkish City",
+            "Watch",
+            "Yunkish Slave",
+            "Soldiers",
+            "2,000 Second Sons"
+        ],
+        "name": "Battle of Yunkai",
+        "place": [
+            "Yunkai",
+            " Slaver's Bay"
+        ],
+        "slug": "Battle_of_Yunkai",
+        "updatedAt": "2019-04-10T07:15:27.827Z"
+    }
+]
